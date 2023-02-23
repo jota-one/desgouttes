@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxt/content": "^2.4.3",
+    "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "postcss-custom-media": "^9.1.2",
+    "postcss-import": "^15.1.0",
+    "postcss-nested": "^6.0.1",
+    "postcss-url": "^10.1.3"
+  }
+}

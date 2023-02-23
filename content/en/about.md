@@ -1,0 +1,31 @@
+# About us
+
+## Our Profile
+As a boutique corporate and litigation law firm - founded in 1834 - Des Gouttes & Associés advises and represents multinational companies (listed and not listed), local SMEs, associations and foundations, and individuals, both in Switzerland and around the world, in domestic and global contexts in all aspects of corporate and commercial law, and dispute resolution.
+
+We pride ourselves on stability, discretion, pragmatism and a solution driven approach. We are Swiss oriented but internationally attuned. Seeing the big picture has been key to the firm's long-standing success.
+
+## Our Values
+At Des Gouttes & Associés, we place great value not only on the identification of sustainable solutions to complex legal issues, but also on the achievement of our clients' individual commercial goals. Creative thinking, pragmatic solutions, nimble efficiency, and the ability to adapt to shifting circumstances are qualities that characterize Des Gouttes & Associés. We value these qualities in our lawyers, and our clients value them in us.
+
+### Your Objectives are Ours
+Our advice always revolves around your objectives. We do not start at the beginning. We start at the end. With the definition of your objectives. You can rely on us to undertake everything legally possible in order to achieve your goals, even in delicate situations.
+
+### Your Business Ally
+Our clients regard us as a sparring partner - a true ally. We enjoy long-term relationships with many companies, institutions, and individuals, who trust us to provide practical counsel that looks beyond the immediate legal issues to larger business implications.
+
+Independently from the complexity of the legal issues, our clients are often under time pressure and need quick legal advice geared to practical solutions. We go right to the heart of the issues presented to us, focus on providing concise and relevant analysis of a problem and develop solid, result-oriented and intelligent solutions. These not only take the relevant legal aspects into account, but also consider the economic interests that they affect. Our clients expect us to know and understand not only our own business, but theirs as well. We are convinced that placing the highest demands on our work is indispensable to acting and negotiating purposefully and decisively. It is also for this reason that we remain focused on our core areas of expertise.
+
+### Passion and Efficiency at Heart
+Our qualifications and our ability to work as a highly motivated team allow us to perform at the highest level even under time pressure. Our commitment to and passion for our profession motivate us to seek sustainable solutions for whatever issue you may bring to us.
+
+We prize efficiency, bringing a sensible cost-benefit approach to every project. In staffing matters, we favor quality over quantity, with small teams characterized by an unusually high level of senior involvement. Our approach is dynamic and flexible, and we often reach across practice areas to assemble the most effective interdisciplinary team for the matter at hand.
+
+### Crossing Borders
+National borders apply to legal systems, but not to business. And especially not to us. Most of our lawyers have multicultural backgrounds, are from various countries, have lived, worked and studied abroad. We understand different cultures and values. We bring together like-minded people with very different views. In addition to our national languages (French, German, and Italian), we work in English, Spanish, Portuguese, and Arabic.
+
+We work closely with excellent law firms abroad which enables us to provide our clients with optimal solutions, regardless of where their business activities take place.
+
+Furthermore, we have excellent relationships to contacts nationwide and a highly efficient international network.
+
+Des Gouttes & Associés is a member of the International Fraud Group (IFG), an alliance of over 30 law firms with a presence in over 50 countries, formed to combat cross-border fraud and recover stolen assets from jurisdictions around the world.
