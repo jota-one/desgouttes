@@ -1,1 +1,0 @@
-# Nathalie Schmid-Bessard
