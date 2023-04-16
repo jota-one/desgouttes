@@ -1,8 +1,8 @@
 <template>
-  <NuxtLink class="card" :href="`/en/team/${person?.initials}`">
-    <img class="image" :src="`/imgs/people/${person?.initials}.jpg`"/>
+  <NuxtLink class="card" :href="person.link">
+    <img class="image" :src="`/imgs/people/${person.initials}.jpg`" />
     <div class="overlay">
-      {{ person?.name }}
+      {{ person.name }}
     </div>
   </NuxtLink>
 </template>
@@ -11,18 +11,18 @@
 export interface Person {
   initials: string
   name: string
+  link: string
 }
 
-defineProps({
-  person: {
-    type: Object as PropType<Person | undefined>,
-    default: undefined,
-  }
-})
+type Props = {
+  person: Person
+}
+
+defineProps<Props>()
 </script>
 
 <style lang="postcss" scoped>
-@import '~/assets/styles/_mediaquery.pcss';
+@import '/assets/styles/_mediaquery.pcss';
 
 .card {
   position: relative;
@@ -32,7 +32,7 @@ defineProps({
   max-width: 15rem;
 
   @media (--desktop) {
-    width: 10rem;
+    width: 12rem;
   }
 
   &:hover {
@@ -59,7 +59,7 @@ defineProps({
   color: rgb(var(--color-white));
   background: rgb(var(--color-primary), 0.7);
   opacity: 0;
-  transition: opacity .1s linear;
+  transition: opacity 0.1s linear;
 }
 
 .image {

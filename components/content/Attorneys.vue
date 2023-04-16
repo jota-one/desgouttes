@@ -1,19 +1,26 @@
 <template>
-    <pre>{{ data }}</pre>
   <div class="cards">
-    <Card v-for="person in attorneys" :person="person" :key="person.initials" />
+    <AttorneyCard
+      v-for="person in attorneys"
+      :key="person.initials"
+      :person="person"
+    />
   </div>
 </template>
 <script setup lang="ts">
-const { data } = await useAsyncData('pa', () => queryContent('/en/team/').find())
-const attorneys = computed(() => (data.value || []).map(attorney => ({
-  initials: attorney.initials,
-  name: attorney.title
-})))
-
+const { data } = await useAsyncData('pa', () =>
+  queryContent('/en/team/').only(['title', 'initials', '_path']).find(),
+)
+const attorneys = computed(() =>
+  (data.value || []).map(attorney => ({
+    initials: attorney.initials,
+    name: attorney.title,
+    link: attorney._path,
+  })),
+)
 </script>
 <style lang="postcss" scoped>
-@import '~/assets/styles/_mediaquery.pcss';
+@import '/assets/styles/_mediaquery.pcss';
 
 .cards {
   display: flex;
