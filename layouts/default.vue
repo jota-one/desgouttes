@@ -6,9 +6,16 @@
   <main class="container">
     <slot />
   </main>
-  <footer></footer>
+  <footer>
+    Copyright © 2017-{{ year }} Des Gouttes & Associés -
+    <a href="/pdf/privacy-policy-19-09-18.pdf" target="_blank"
+      >Privacy Policy</a
+    >
+  </footer>
 </template>
-
+<script setup lang="ts">
+const year = computed(() => new Date().getFullYear())
+</script>
 <style lang="postcss" scoped>
 @import '/assets/styles/_mediaquery.pcss';
 
