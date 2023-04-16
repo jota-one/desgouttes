@@ -9,9 +9,17 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
   content: {
     documentDriven: true,
+  },
+  tailwindcss: {
+    config: {
+      content: ['content/**/*.md'],
+      corePlugins: {
+        preflight: false,
+      },
+    },
   },
 
   css: ['@/assets/styles/main.pcss'],
