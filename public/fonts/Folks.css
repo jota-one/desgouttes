@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Folks';
-  src: url('./Folks-Light.woff') format('woff2');
+  src: url('folks-light/Folks-Light-webfont.woff') format('woff');
   font-weight: 300;
   font-style: normal;
 }
