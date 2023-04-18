@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Fraud, Financial Crime and Asset Recovery
 
 In recent years, governments have increased their efforts and adapted their laws and regulations in order to fight fraud, corruption, money laundering, financing of criminal activities and terrorism. As a result, criminal law is increasingly important for international business and finance.

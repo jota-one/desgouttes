@@ -4,6 +4,7 @@
       v-for="({ _path: path, title, active }, index) in i18nNavigation"
       :key="index"
       :href="path"
+      class="item"
       :class="{ active }"
       >{{ title }}</NuxtLink
     >
@@ -24,8 +25,13 @@ const i18nNavigation = computed(() =>
     }),
 )
 </script>
-<style>
+<style scoped>
+.item {
+  @apply my-2 tracking-widest text-right;
+  padding: 0 18px 0 0;
+}
 .active {
   color: rgb(var(--color-primary));
+  border-right: 2px solid rgb(var(--color-primary));
 }
 </style>

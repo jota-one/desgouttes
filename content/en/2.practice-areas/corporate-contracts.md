@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Corporate and Contracts
 
 Our experience and expertise enable us to provide clients, even on short notice, with cutting-edge yet comprehensive advice on all types of corporate and commercial matters across all relevant industry sectors.

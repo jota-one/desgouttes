@@ -1,4 +1,5 @@
 <template>
+  <div class="big-image"></div>
   <div class="website">
     <header class="sidebar">
       <div class="logo">
@@ -9,22 +10,25 @@
       <Navigation class="nav" />
     </header>
     <main class="main">
-      <slot />
-      <footer>
-        Copyright © 2017-{{ year }} Des Gouttes & Associés -
-        <a href="/pdf/privacy-policy-19-09-18.pdf" target="_blank"
-          >Privacy Policy</a
-        >
-      </footer>
+      <div class="welcome">
+        <slot />
+      </div>
     </main>
   </div>
 </template>
-<script setup lang="ts">
-const year = computed(() => new Date().getFullYear())
-const { page } = useContent()
-const banner = computed(() => `url(/imgs/hero/${page.value.banner})`)
-</script>
 <style lang="postcss" scoped>
+.big-image {
+  background-image: url(/imgs/homepage.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 25%;
+  right: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+
 .website {
   display: flex;
   flex-direction: row;
@@ -56,11 +60,18 @@ const banner = computed(() => `url(/imgs/hero/${page.value.banner})`)
 
 .main {
   flex: 1;
-  background-image: v-bind(banner);
-  overflow-y: auto;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: 100%;
+}
+
+.welcome {
+  background-color: rgba(var(--color-primary), 0.6);
+  @apply flex-1 text-2xl relative text-white py-6 pl-36;
+  left: -25%;
+  letter-spacing: 0.5em;
+  margin-top: 460px;
+  width: 95%;
+
+  :deep(p) {
+    margin: 0;
+  }
 }
 </style>

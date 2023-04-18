@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Litigation and Arbitration
 
 Des Gouttes & Associés has decades of experience in litigation and international arbitration in Switzerland, in both practice areas as counsels and as deputy judges or arbitrators. We represent clients in complex civil, administrative and criminal litigation, international arbitration and corporate investigations. Our clients cover a broad range of industries, including banking and finance, aviation, automobile, information technology, outsourcing, pharmaceutical, construction, fast moving consumer goods, art and education. Across these sectors, clients rely on our understanding of their business needs and our fine grasp of the technical and scientific disciplines at the core of their operations.

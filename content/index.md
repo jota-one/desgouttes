@@ -1,1 +1,4 @@
-# Welcome to Des Gouttes &amp; Associés
+---
+layout: homepage
+---
+Welcome to Des Gouttes &amp; Associés

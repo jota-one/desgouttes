@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Private Clients
 
 ## Estate Planning and Wealth Management
