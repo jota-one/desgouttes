@@ -1,0 +1,78 @@
+{
+  "type": "person",
+  "role": "associate",
+  "lastname": "Ganzoni",
+  "firstname": "Philipp",
+  "order": 100,
+  "cvVersion": "v2021",
+  "email": "philipp.ganzoni@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "en",
+    "de_ch",
+    "fr",
+    "it",
+    "es",
+    "pt"
+  ],
+  "activities": [
+    "Of Counsel",
+    "Attorney at Law, lic. sc. com."
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)"
+  ],
+  "practiceAreas": [
+    {
+      "id": "practiceareas.enforcement",
+      "expertise": "Philipp Ganzoni handles enforcement matters, assisting clients with the recovery of claims but also with the restructuring of enterprises and the protection of assets. Philipp Ganzoni's expertise in enforcement proceedings encompasses debt collection, bankruptcy and composition proceedings as well as voluntary liquidations, subsidiarisation and related liability claims against board members, auditors and shareholders. Philipp Ganzoni has been a deputy judge at the Geneva Appeal Court in debt collection and bankruptcy matters for 12 years. He further is a member of the editorial board of Switzerland's leading publication on debt collection and bankruptcy."
+    },
+    {
+      "id": "practiceareas.disputeres",
+      "expertise": "Philipp Ganzoni has a vast experience in litigation both before the courts in Geneva and other cantons, but also in non-Swiss jurisdictions. His experience encompasses in particular bankruptcy proceedings, debt collection, tenancy, employment law and more generally contract law."
+    },
+    {
+      "id": "practiceareas.private",
+      "expertise": "Philipp Ganzoni regularly assists private clients in estate planning matters, as well as real estate acquisitions. He regularly acts as executor including as trustee for foreign bankruptcies or estates."
+    },
+    {
+      "id": "practiceareas.contract",
+      "expertise": "Philipp Ganzoni assists clients in their international investments, the negotiation and drafting of contractual agreements in particular for services, construction projects, employment matters, and general trade. His clients also rely on his experience in the restructuring of distressed companies and moratorium procedures. He further advises on the relationships among shareholders and the management of companies."
+    }
+  ],
+  "education": [
+    {
+      "date": "1976",
+      "content": "University of Geneva, Licence en droit"
+    },
+    {
+      "date": "1978",
+      "content": "University of Geneva, Licence en sciences commerciales"
+    },
+    {
+      "date": "1980",
+      "content": "Admission to the Geneva Bar"
+    }
+  ],
+  "experience": [
+    {
+      "date": "1978",
+      "content": "Joined Des Gouttes & Associés"
+    }
+  ],
+  "others": [
+    {
+      "date": "1989",
+      "content": "Founding member of Euravocat - European Lawyers Network (www.euravocat.com)"
+    },
+    {
+      "date": "2004-2016",
+      "content": "Deputy Judge at the Geneva Appeal Court in debt collection and bankruptcy matters"
+    },
+    {
+      "date": "2009",
+      "content": "Member of the editorial Board of the Debt Collection and Bankruptcy Publication"
+    }
+  ]
+}

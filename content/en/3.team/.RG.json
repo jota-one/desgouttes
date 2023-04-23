@@ -1,0 +1,69 @@
+{
+  "type": "person",
+  "role": "attorney",
+  "lastname": "Gros",
+  "firstname": "Rhoxane",
+  "cvVersion": "v2",
+  "email": "rhoxane.gros@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "fr",
+    "en",
+    "de"
+  ],
+  "activities": [
+    "Associate",
+    "Attorney at Law"
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)"
+  ],
+  "practiceAreas": [
+    {
+      "id": "practiceareas.disputeres",
+      "expertise": "Rhoxane Gros advises and represents clients on domestic and international litigation before the courts in Geneva, mainly in criminal and civil law matters."
+    },
+    {
+      "id": "practiceareas.fraud",
+      "expertise": "Rhoxane Gros advises clients on asset protection and asset recovery in connection with fraud cases and ensures clients' rights by means of civil seizure of assets and criminal proceedings."
+    },
+    {
+      "id": "practiceareas.contract",
+      "expertise": "Rhoxane Gros further assists clients on corporate law matters and handles issues of corporate law including corporate housekeeping."
+    }
+  ],
+  "education": [
+    {
+      "date": "2010-2013",
+      "content": "University of Fribourg, Bachelor of Law"
+    },
+    {
+      "date": "2014-2016",
+      "content": "University of Geneva, Master of Law"
+    },
+    {
+      "date": "2016",
+      "content": "University of Geneva, Certificate of advanced Studies in Legal Profession"
+    },
+    {
+      "date": "2018",
+      "content": "Admission to the Geneva Bar Exam (ranked 3rd best)"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2014-2015",
+      "content": "Avocats Ador & Associés, Geneva, Paralegal"
+    },
+    {
+      "date": "2016-2017",
+      "content": "Juvenile Criminal Court, Geneva, Trainee"
+    },
+    {
+      "date": "2017",
+      "content": "Joined Des Gouttes & Associés"
+    }
+  ],
+  "others": []
+}

@@ -1,0 +1,78 @@
+{
+  "initials": "HD",
+  "layout": "resume",
+  "type": "person",
+  "role": "attorney",
+  "lastname": "Dagli",
+  "firstname": "Hasan",
+  "email": "hasan.dagli@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "fr",
+    "en",
+    "de",
+    "tr"
+  ],
+  "activities": [
+    "Associate",
+    "Attorney at Law"
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)"
+  ],
+  "practiceAreas": [
+    {
+      "id": "practiceareas.disputeres",
+      "expertise": "Hasan Dagli advises private and corporate clients on civil and commercial litigation and arbitration.<br>He also regularly ensures the enforcement of foreign and national decisions and arbitral awards, in particular by means of civil seizure of assets."
+    },
+    {
+      "id": "practiceareas.contract",
+      "expertise": "Hasan Dagli regularly advises entrepreneurs, companies and private clients on the negotiation and drafting in a national and international scope of all types of commercial contracts, including manufacturing, distribution, licensing, joint venture, franchise, non-disclosure, lease, service, sale and purchase agreements.<br>He further assists clients from the incorporation of their business to its sale, with respect to all contractual issues, including loan or convertible loan agreements, shareholders' agreement, share or asset purchase agreements and regulatory issues that may arise during the business life of their company."
+    },
+    {
+      "id": "practiceareas.employment",
+      "expertise": "Hasan Dagli advises and represents Swiss and multinational clients in all matters relating to employment law, including negotiation, drafting and review of employment contracts, termination agreements, bonus scheme and non-compete provisions."
+    }
+  ],
+  "education": [
+    {
+      "date": "2015",
+      "content": "University of Geneva, Bachelor in Law"
+    },
+    {
+      "date": "2018",
+      "content": "University of Geneva, Master in Business Law"
+    },
+    {
+      "date": "2018",
+      "content": "University of Geneva, Certificate of Advanced Studies in Legal Professions"
+    },
+    {
+      "date": "2020",
+      "content": "Admission to the Geneva Bar"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2017",
+      "content": "Legal Trainee, Djaziri & Nuzzo law firm"
+    },
+    {
+      "date": "2017",
+      "content": "Legal Trainee, Societe Generale Private Banking (Suisse) SA"
+    },
+    {
+      "date": "2018-2019",
+      "content": "Trainee Lawyer, Bertrand Gros & Louis Waltenspühl law firm"
+    },
+    {
+      "date": "2021",
+      "content": "Legal counsel, Department of Economy and Employment, Geneva State"
+    },
+    {
+      "date": "Since 2021",
+      "content": "Associate, Des Gouttes & Associés"
+    }
+  ],
+  "others": []
+}

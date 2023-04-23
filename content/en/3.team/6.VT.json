@@ -1,0 +1,78 @@
+{
+  "initials": "VT",
+  "layout": "resume",
+  "type": "person",
+  "role": "attorney",
+  "lastname": "Thabuis",
+  "firstname": "Vince",
+  "email": "vince.thabuis@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "fr",
+    "en",
+    "de"
+  ],
+  "activities": [
+    "Associate",
+    "Attorney at Law"
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)"
+  ],
+  "practiceAreas": [
+    {
+      "id": "practiceareas.fraud",
+      "expertise": "Vince Thabuis is primarily active in fraud matters, business crime and international mutual legal assistance (criminal and tax related) proceedings.<br>He also assists financially harmed clients in the matter of asset tracing and recovery, as well as civil seizure of assets and enforcement of foreign and national decisions so as to obtain compensation and/or restitution of their assets."
+    },
+    {
+      "id": "practiceareas.disputeres",
+      "expertise": "Vince Thabuis regularly represents clients before the Swiss federal and state courts in civil, commercial, banking and criminal litigation proceedings.<br>His experience in civil proceedings encompasses, among others, corporate and contract law.<br>With regard to criminal proceedings, he is mainly active in white-collar crime matters."
+    },
+    {
+      "id": "practiceareas.private",
+      "expertise": "Vince Thabuis frequently assists debtors and creditors in the matter of debt collection and bankruptcy proceedings and related litigation."
+    }
+  ],
+  "education": [
+    {
+      "date": "2013",
+      "content": "University of Geneva, Bachelor of Law"
+    },
+    {
+      "date": "2015",
+      "content": "University of Glasgow, University exchange"
+    },
+    {
+      "date": "2015",
+      "content": "University of Geneva, Certificate of Advanced Studies in Legal Professions"
+    },
+    {
+      "date": "2015",
+      "content": "University of Geneva, Master of Law in Economic Law<br>(Erasmus, The University of Sheffield, United Kingdom<br>Mobility, The University of Zurich, Switzerland)"
+    },
+    {
+      "date": "2019",
+      "content": "Admission to the Geneva Bar"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2016-2017",
+      "content": "Trainee Lawyer and Jurist, Department of Legal Affairs of the Cantonal Tax Authority, Geneva"
+    },
+    {
+      "date": "2017-2018",
+      "content": "Trainee Lawyer, Court of First Instance, Geneva"
+    },
+    {
+      "date": "2018-2019",
+      "content": "Trainee Lawyer, RVMH Avocats, Geneva"
+    },
+    {
+      "date": "2020",
+      "content": "Associate, Des Gouttes & Associés"
+    }
+  ],
+  "others": []
+}

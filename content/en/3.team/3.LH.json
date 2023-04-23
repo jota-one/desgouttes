@@ -1,0 +1,78 @@
+{
+  "initials": "LH",
+  "layout": "resume",
+  "type": "person",
+  "role": "associate",
+  "lastname": "Hawa",
+  "firstname": "Leila",
+  "cvVersion": "v4",
+  "email": "leila.hawa@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "fr",
+    "en",
+    "de"
+  ],
+  "activities": [
+    "Partner",
+    "Attorney at Law, LL.M."
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)",
+    "Swiss Institute of Directors (SIoD)",
+    "Swiss Board Network"
+  ],
+  "practiceAreas": [
+    {
+      "id": "practiceareas.privequity",
+      "expertise": "Leila Hawa regularly advises on international and domestic transactions, including acquisitions, private equity buy-outs, venture capital investments, mergers, and transactional real estate matters for listed and non-listed companies in all service and industry sectors (e.g., IT, new technologies, oil and gas, luxury goods, banking, insurance, real estate). She leads due diligence teams, advises on the structure of the transactions, negotiates and drafts the transactional documents (investment and shareholders' agreements, share/asset purchase agreements, joint ventures, stock option and purchase plans, non-competition and employment agreements, sale and lease back agreements)."
+    },
+    {
+      "id": "practiceareas.bankfinance",
+      "expertise": "Leila Hawa advises on credit facility (including bonds and convertible facilities), asset securitization, and insolvency matters; she assists clients on debt and equity (re)financing and restructuring. Leila Hawa advises insurance companies and banks on regulatory matters, as well as on offering and listing prospectuses for the issuance of stocks and bonds. She also advises clients on the acquisition/sale of banks."
+    },
+    {
+      "id": "practiceareas.contract",
+      "expertise": "Leila Hawa advises clients on corporate law matters (best practice, corporate governance, setting up of corporate entities and branches, equity structures, e.g., authorized and conditional capital, preferred shares, preferential voting shares).\nLeila Hawa advises on the negotiation and drafting of commercial contracts (umbrella and service level agreements, manufacturing, supply, distribution, cooperation, franchise, and licensing agreements)."
+    }
+  ],
+  "education": [
+    {
+      "date": "1998",
+      "content": "Universities of Geneva and Basle, Licence en droit"
+    },
+    {
+      "date": "2000",
+      "content": "Admission to the Geneva Bar"
+    },
+    {
+      "date": "2002",
+      "content": "Columbia University, School of Law, New York, LL.M."
+    },
+    {
+      "date": "2018",
+      "content": "University of St. Gallen / HEC Lausanne / Swiss Board Institute, Executive Program for Board Members"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2001",
+      "content": "Research Assistant, University of Geneva, Geneva"
+    },
+    {
+      "date": "2002-2009",
+      "content": "Senior Associate, Lenz & Staehelin, Geneva and Zurich"
+    },
+    {
+      "date": "2010",
+      "content": "Joined Des Gouttes & Associés, Geneva"
+    }
+  ],
+  "others": [],
+  "id": "LH",
+  "admin": {
+    "password": "$2a$10$Sj3W2Wy3q2GhOWixOlKbKeZVjgM7/kK48MmC7GKI3OA/dmz6.dWEi",
+    "salt": "ac6c73d7-f471-4a41-a13a-728711c20871"
+  }
+}

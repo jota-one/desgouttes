@@ -1,0 +1,76 @@
+{
+  "initials": "NB",
+  "layout": "resume",
+  "type": "person",
+  "role": "attorney",
+  "lastname": "Schmid-Bessard",
+  "firstname": "Nathalie",
+  "cvVersion": "v2021",
+  "email": "nathalie.bessard@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "fr",
+    "en",
+    "de"
+  ],
+  "activities": [
+    "Senior Associate",
+    "Attorney at Law"
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)"
+  ],
+  "practiceAreas": [
+    {
+      "id": "practiceareas.employment",
+      "expertise": "Nathalie Schmid-Bessard regularly advises and represents Swiss and multinational companies, individuals as well as international organizations on all employment law matters. She assists clients in the preparation and enforcement of individual or collective dismissals and regularly provides tailormade trainings/coaching to her clients.\n\nNathalie Schmid-Bessard also disposes of a strong experience in relocating individuals and their family or their business to Switzerland, negotiating tax rulings and obtaining residence and work permits."
+    },
+    {
+      "id": "practiceareas.contract",
+      "expertise": "Nathalie Schmid-Bessard relies on her experience to advise Swiss and international companies to structure and run their business as well as to draft, negotiate, implement and enforce all type of contracts (such as distribution agreement, SLA, non-disclosure (NDA), lease agreement, services and consulting agreement, sale and purchase contracts)."
+    },
+    {
+      "id": "practiceareas.disputeres",
+      "expertise": "Nathalie Schmid-Bessard has a vast experience in dispute resolution before the Geneva Courts including pre-trial strategy, in particular regarding civil and commercial disputes, including banking litigation."
+    },
+    {
+      "id": null,
+      "title": "Data Protection and Intellectual Property",
+      "expertise": "Nathalie Schmid-Bessard regularly provides clients from various sectors of activity with data protection advice (LPD, GDPR, transfer of data outside Switzerland, privacy, etc.).\n\nShe, among other, assists clients with the audit of their existing intellectual property rights."
+    }
+  ],
+  "education": [
+    {
+      "date": "2008",
+      "content": "University of Geneva, Bachelor of Law"
+    },
+    {
+      "date": "2009",
+      "content": "University of Geneva, Master of Law"
+    },
+    {
+      "date": "2011",
+      "content": "University of Geneva, Certificate of Advanced Studies in Legal Professions"
+    },
+    {
+      "date": "2012",
+      "content": "Admission to the Geneva Bar Exam (ranked 3rd best)"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2008-2009",
+      "content": "Secretary, Geneva Parliament, Geneva"
+    },
+    {
+      "date": "2010-2012",
+      "content": "Trainee Lawyer, Des Gouttes & Associés"
+    },
+    {
+      "date": "2013",
+      "content": "Associate, Des Gouttes & Associés"
+    }
+  ],
+  "others": []
+}

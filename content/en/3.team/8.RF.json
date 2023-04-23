@@ -1,0 +1,88 @@
+{
+  "initials": "RF",
+  "layout": "resume",
+  "type": "person",
+  "role": "associate",
+  "lastname": "Fiechter",
+  "firstname": "Robert",
+  "email": "robert.fiechter@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "cvVersion": "v2021",
+  "languages": [
+    "en",
+    "de_ch",
+    "fr"
+  ],
+  "activities": [
+    "Of Counsel",
+    "Attorney at Law, LL.M.",
+    "Former Deputy Judge at the Geneva Court of Justice",
+    "Former Deputy Secretary of the Supervisory Board CDB"
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)",
+    "Swiss-American Chamber of Commerce",
+    "International Fraud Group (IFG)"
+  ],
+  "practiceAreas": [
+    {
+      "id": "practiceareas.fraud",
+      "expertise": "Robert Fiechter advises banks, trading companies and financial institutions on asset protection and asset recovery in connection with complex international fraud cases. He is a Founding Member of the International Fraud Group <a href=\"http://www.internationalfraudgroup.com\" target=\"_blank\">(www.internationalfraudgroup.com)</a>, a group of specialized fraud lawyers active across more than 20 financial centers and offshore jurisdictions around the world, focused on securing injunctions, asset recovery and trust busting remedies."
+    },
+    {
+      "id": "practiceareas.bankfinance",
+      "expertise": "As former deputy secretary of the Supervisory Board CDB (Swiss Bank Codes of Conduct), Robert Fiechter has extensive experience in banking regulatory issues, international administrative and criminal legal assistance. Robert Fiechter regularly handles procedures involving international administrative assistance concerning requests emanating from the SEC and the French COB as well as from the US Department of Justice and other foreign criminal prosecution authorities."
+    },
+    {
+      "id": "practiceareas.private",
+      "expertise": "Robert Fiechter advises high networth individuals and families on asset protection and conveyance of estates. He also acts as executor in domestic and international successions."
+    },
+    {
+      "id": "practiceareas.disputeres",
+      "expertise": ""
+    }
+  ],
+  "education": [
+    {
+      "date": "1976-1978",
+      "content": "University of Geneva, licence en droit"
+    },
+    {
+      "date": "1978",
+      "content": "Admission to the Geneva Bar"
+    },
+    {
+      "date": "1980",
+      "content": "University of New Orleans, Tulane Law School, LL.M."
+    }
+  ],
+  "experience": [
+    {
+      "date": "1980-1981",
+      "content": "Teaching Assistant, University of Geneva, Law School, Geneva"
+    },
+    {
+      "date": "1982",
+      "content": "Joined Des Gouttes & Associés"
+    }
+  ],
+  "others": [
+    {
+      "date": "1996-2006",
+      "content": "Deputy Judge at the Tribunal of First Instance of Geneva"
+    },
+    {
+      "date": "2007-2011",
+      "content": "President of the Arbitral Tribunal SRO Post"
+    },
+    {
+      "date": "2007-2017",
+      "content": "Deputy Judge at the Court of Justice (Appellate Court), Geneva"
+    },
+    {
+      "date": "2008-2021",
+      "content": "Deputy Secretary of the Supervisory Board CDB (Agreement on the Swiss Banks' Codes of Conduct with regard to the exercise of due diligence), Berne"
+    }
+  ]
+}

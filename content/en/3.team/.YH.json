@@ -1,0 +1,68 @@
+{
+  "type": "person",
+  "role": "attorney",
+  "lastname": "Hofer",
+  "firstname": "Yanna",
+  "email": "yanna.hofer@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "activities": [
+    "Associate",
+    "Attorney at Law"
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)",
+    "Trial International"
+  ],
+  "practiceAreas": [
+    {
+      "id": "practiceareas.disputeres",
+      "expertise": "Yanna Hofer advises and represents clients on domestic and international litigation, mainly in commercial and contracts matters as in criminal matters."
+    },
+    {
+      "id": "practiceareas.contract",
+      "expertise": "Yanna Hofer advises, negotiates, drafts and resolves disputes related to service contracts such as distribution, manufacturing, supply, management and employment agreements or general consulting contracts both in domestic and international relations."
+    },
+    {
+      "id": "practiceareas.fraud",
+      "expertise": "Yanna Hofer ensures the enforcement of foreign and national decisions and clients' rights by means of civil seizure of assets, criminal proceedings on behalf of financially harmed clients or recognition proceedings."
+    }
+  ],
+  "education": [
+    {
+      "date": "2013",
+      "content": "University of Geneva, Bachelor of Law"
+    },
+    {
+      "date": "2015",
+      "content": "University of Glasgow, University exchange"
+    },
+    {
+      "date": "2016",
+      "content": "University of Geneva, Master of Law"
+    },
+    {
+      "date": "2016",
+      "content": "University of Geneva, Certificate of advanced Studies in Legal Profession"
+    },
+    {
+      "date": "2018",
+      "content": "Admission to the Geneva Bar"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2016-2018",
+      "content": "RVMH Avocats, Geneva, Trainee"
+    },
+    {
+      "date": "2018",
+      "content": "Joined Des Gouttes & Associés, Geneva"
+    }
+  ],
+  "others": []
+}
