@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=fr-ch:Thabuis;Vince
+FN:Vince Thabuis
+ORG;CHARSET=Windows-1252:Des Gouttes & Associés
+TEL;WORK;VOICE:+41 22 704 30 50 Bureau
+ADR;WORK;PREF;CHARSET=Windows-1252;ENCODING=QUOTED-PRINTABLE:;;Avenue de Champel 4=0D=0A=
+1206 Gen=E8ve=0D=0A=
+Switzerland;https://www.desgouttes.ch;;;Suisse
+LABEL;WORK;PREF;CHARSET=Windows-1252;ENCODING=QUOTED-PRINTABLE:Avenue de Champel 4=0D=0A=
+1206 Gen=E8ve=0D=0A=
+Switzerland=0D=0A=
+https://www.desgouttes.ch
+X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
+EMAIL;PREF;INTERNET:Vince.Thabuis@desgouttes.ch
+X-MS-CARDPICTURE;TYPE=JPEG;ENCODING=BASE64:
+ /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUa
+ GRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr/2wBDAQcICAoJChQLCxQqHBgc
+ KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir/wAAR
+ CACEAB8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+ AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+ FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+ h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+ 5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+ AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+ NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+ hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+ 5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3fPNGKTvTlGaAJIzgVHK241JjaKhPLUAG
+ KliFRZqxEPloAJThagUc5qSfpimIOKAGj71Wo+FqugqYnC0ARynLUfdWmfeenOcCgB0Y5p0v
+ yikXg0r/ADfeoAijHenMoPWncBeKid89KAJyahdiTip3xtquOZPagCTIEWKgxnpU0g+Xiowl
+ AE8nI4pijK80SN1xQi5GaAEZ8DGKjJJp79abQA5z1p6/cpo5NK3C0AMY803NJmigCROaWT0p
+ YxxTJDzQA2kNFBNAE6/dqJvvUUUANzSGiigD/9k=
+
+X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="fit" area="16" use="cardpicture"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="org" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="telwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="email" align="left" dir="ltr" color="d48d2a" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="addrwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
+REV:20210917T161246Z
+END:VCARD
