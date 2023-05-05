@@ -12,7 +12,7 @@
     "fr",
     "en",
     "de",
-    "ar"
+    "ar_eg"
   ],
   "activities": [
     "Senior Associate",
@@ -22,7 +22,8 @@
     "Geneva Bar Association (OdA)",
     "Swiss Bar Association (SAV)",
     "International Association of Young Lawyers (AIJA)",
-    "European Lawyers Network (Euravocat)"
+    "European Lawyers Network (Euravocat)",
+    "Law Society of England and Wales"
   ],
   "practiceAreas": [
     {
@@ -31,7 +32,7 @@
     },
     {
       "id": "practiceareas.contract",
-      "expertise": "Anaïs Abdel Sattar regularly advises entrepreneurs, companies and private clients on the negotiation and drafting of commercial contracts, including manufacturing, distribution, licensing, joint venture, franchise, non-disclosure (NDA), lease, service, sale and purchase agreements, both in international and domestic situations. She also relies on her experience to assist clients with business ownership transfer process.\n\nShe further advises clients in all corporate law matters as well as in day-to-day business matters, including in labor law and tenancy law."
+      "expertise": "Anaïs Abdel Sattar regularly advises entrepreneurs, companies and private clients on the negotiation and drafting of commercial contracts, including manufacturing, distribution, licensing, joint venture, franchise, non-disclosure (NDA), lease, service, sale and purchase agreements, both in international and domestic situations. She also assists clients with business ownership transfer processes.\n\nShe further advises clients in all corporate law matters as well as in day-to-day business matters, including in labor law and tenancy law."
     },
     {
       "id": "practiceareas.enforcement",
@@ -54,6 +55,10 @@
     {
       "date": "2014",
       "content": "Admission to the Geneva Bar (ranked 2nd best)"
+    },
+    {
+      "date": "2022",
+      "content": "Qualification as Solicitor (England and Wales)"
     }
   ],
   "experience": [

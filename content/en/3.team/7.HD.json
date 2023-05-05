@@ -18,7 +18,8 @@
     "Attorney at Law"
   ],
   "memberships": [
-    "Geneva Bar Association (OdA)"
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)"
   ],
   "practiceAreas": [
     {
@@ -41,7 +42,7 @@
     },
     {
       "date": "2018",
-      "content": "University of Geneva, Master in Business Law"
+      "content": "University of Geneva, Master of Law in Business Law"
     },
     {
       "date": "2018",
@@ -55,22 +56,22 @@
   "experience": [
     {
       "date": "2017",
-      "content": "Legal Trainee, Djaziri & Nuzzo law firm"
+      "content": "Legal Trainee, Djaziri & Nuzzo, Geneva"
     },
     {
       "date": "2017",
-      "content": "Legal Trainee, Societe Generale Private Banking (Suisse) SA"
+      "content": "Legal Trainee, Societe Generale Private Banking (Suisse) SA, Geneva"
     },
     {
       "date": "2018-2019",
-      "content": "Trainee Lawyer, Bertrand Gros & Louis Waltenspühl law firm"
+      "content": "Trainee Lawyer, Gros & Waltenspühl Avocats, Geneva"
     },
     {
       "date": "2021",
-      "content": "Legal counsel, Department of Economy and Employment, Geneva State"
+      "content": "Legal counsel, Department of Economy and Employment, Geneva"
     },
     {
-      "date": "Since 2021",
+      "date": "2021",
       "content": "Associate, Des Gouttes & Associés"
     }
   ],
