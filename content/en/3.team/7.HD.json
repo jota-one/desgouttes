@@ -21,17 +21,17 @@
     "Geneva Bar Association (OdA)",
     "Swiss Bar Association (SAV)"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": "Hasan Dagli advises private and corporate clients on civil and commercial litigation and arbitration.<br>He also regularly ensures the enforcement of foreign and national decisions and arbitral awards, in particular by means of civil seizure of assets."
     },
     {
-      "id": "practiceareas.contract",
+      "practiceArea": "corporate-contracts",
       "expertise": "Hasan Dagli regularly advises entrepreneurs, companies and private clients on the negotiation and drafting in a national and international scope of all types of commercial contracts, including manufacturing, distribution, licensing, joint venture, franchise, non-disclosure, lease, service, sale and purchase agreements.<br>He further assists clients from the incorporation of their business to its sale, with respect to all contractual issues, including loan or convertible loan agreements, shareholders' agreement, share or asset purchase agreements and regulatory issues that may arise during the business life of their company."
     },
     {
-      "id": "practiceareas.employment",
+      "practiceArea": "employment-immigration",
       "expertise": "Hasan Dagli advises and represents Swiss and multinational clients in all matters relating to employment law, including negotiation, drafting and review of employment contracts, termination agreements, bonus scheme and non-compete provisions."
     }
   ],

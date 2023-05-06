@@ -25,17 +25,17 @@
     "Swiss Bar Association (SAV)",
     "International Fraud Group (IFG)"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.contract",
+      "practiceArea": "corporate-contracts",
       "expertise": "Arun Chandrasekharan primarily advises, negotiates, drafts and resolves disputes related to service contracts, such as mandate agreements, distribution agreements, joint venture agreements, licensing agreements, outsourcing agreements, manufacturing agreements, supply agreements, management agreements, employment agreements or general consulting contracts both in international and domestic relations.\n\nHe assists clients on transactions concerning the sale of companies or assets (including real estate transactions), investment in companies, transfer of technologies. He advises, negotiates, drafts and resolves disputes pertaining banking matters (loan agreements, asset management, trade finance, etc.), shareholders' agreements, share or asset purchase agreements, investment agreements, convertible loan agreements and related agreements.\n\nWith his own personal experience on Boards of Directors, Arun regularly handles issues of corporate law including corporate housekeeping and corporate restructuring."
     },
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": "Arun Chandrasekharan disposes of a vast experience in dispute resolutions both before courts in Geneva and other cantons as well as in arbitration and mediation. He regularly acts as sole arbitrator, party appointed arbitrator and mediator both in ad hoc proceedings as well as in institutional arbitrations/mediations (International Chamber of Commerce, Swiss Arbitration Centre, Arbitral Tribunal of the Swiss Association of Asset Managers)."
     },
     {
-      "id": "practiceareas.enforcement",
+      "practiceArea": "insolvency-restructuring",
       "expertise": "Arun Chandrasekharan regularly ensures the enforcement of foreign and national decisions and clients' rights by means of civil seizure of assets, criminal proceedings on behalf of financially harmed clients or recognition proceedings. He is a member of the International Fraud Group."
     }
   ],

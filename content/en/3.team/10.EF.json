@@ -25,17 +25,17 @@
     "Associations SIArb Singapore Institute of  Arbitration",
     "STA Singapore Trustee Association"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.bankfinance",
+      "practiceArea": "banking-finance",
       "expertise": "Eric Fiechter advises private clients and corporations investing in or through Switzerland.\nHe advises several foreign banks and financial companies in Switzerland and is a member of their Boards of Directors.\nHe regularly advises clients who are interested in using Singapore as a business hub and generally facilitates European-Asian business exchanges."
     },
     {
-      "id": "practiceareas.private",
+      "practiceArea": "private-clients",
       "expertise": "Eric Fiechter assists high net worth individuals with estate planning issues."
     },
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": "Eric Fiechter serves advisor and as party appointed arbitrator in a number of international arbitration proceedings including under ICC rules as well as under the Swiss Rules.\nEric Fiechter also acts as mediator, in particular in the context of international commercial disputes."
     }
   ],

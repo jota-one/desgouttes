@@ -25,17 +25,17 @@
     "European Lawyers Network (Euravocat)",
     "Law Society of England and Wales"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": "Anaïs Abdel Sattar advises private and corporate clients on domestic and international litigation and arbitration, including pre-trial strategy, in civil and commercial matters, including banking litigation.\n\nShe also assists clients with the enforcement of foreign and national decisions and arbitral awards through asset tracing and recovery, civil seizures of assets and recognition proceedings."
     },
     {
-      "id": "practiceareas.contract",
+      "practiceArea": "corporate-contracts",
       "expertise": "Anaïs Abdel Sattar regularly advises entrepreneurs, companies and private clients on the negotiation and drafting of commercial contracts, including manufacturing, distribution, licensing, joint venture, franchise, non-disclosure (NDA), lease, service, sale and purchase agreements, both in international and domestic situations. She also assists clients with business ownership transfer processes.\n\nShe further advises clients in all corporate law matters as well as in day-to-day business matters, including in labor law and tenancy law."
     },
     {
-      "id": "practiceareas.enforcement",
+      "practiceArea": "insolvency-restructuring",
       "expertise": "Anaïs Abdel Sattar frequently assists creditors with the recovery of their claims in the matter of debt collection and bankruptcy proceedings and related litigations."
     }
   ],

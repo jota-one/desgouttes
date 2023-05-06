@@ -23,9 +23,9 @@
     "Swiss Bar Association (SAV)",
     "Swiss Panel of the International Chamber of Commerce (ICC)"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.private",
+      "practiceArea": "private-clients",
       "expertise": "Ivan Cohen counsels and assists international and Swiss private clients and high net worth individuals with the organization of their assets including corporate restructuring, tax efficiency, anti-money laundering compliance, cash-flow management, private wealth management and estate planning.\n\nIvan Cohen has accompanied numerous clients domiciled in the Americas and in Europe through voluntary disclosure proceedings. He regularly assists clients with repatriation, expatriation and domiciliation agreements.\n\nHe regularly acts as executor, trustee and administrator in multijurisdictional succession matters, estate liquidations and insolvencies."
     }
   ],

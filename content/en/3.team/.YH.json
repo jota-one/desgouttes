@@ -18,17 +18,17 @@
     "Swiss Bar Association (SAV)",
     "Trial International"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": "Yanna Hofer advises and represents clients on domestic and international litigation, mainly in commercial and contracts matters as in criminal matters."
     },
     {
-      "id": "practiceareas.contract",
+      "practiceArea": "corporate-contracts",
       "expertise": "Yanna Hofer advises, negotiates, drafts and resolves disputes related to service contracts such as distribution, manufacturing, supply, management and employment agreements or general consulting contracts both in domestic and international relations."
     },
     {
-      "id": "practiceareas.fraud",
+      "practiceArea": "fraud-financial-crime-assets-recovery",
       "expertise": "Yanna Hofer ensures the enforcement of foreign and national decisions and clients' rights by means of civil seizure of assets, criminal proceedings on behalf of financially harmed clients or recognition proceedings."
     }
   ],

@@ -25,21 +25,21 @@
     "Swiss-American Chamber of Commerce",
     "International Fraud Group (IFG)"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.fraud",
+      "practiceArea": "fraud-financial-crime-assets-recovery",
       "expertise": "Robert Fiechter advises banks, trading companies and financial institutions on asset protection and asset recovery in connection with complex international fraud cases. He is a Founding Member of the International Fraud Group <a href=\"http://www.internationalfraudgroup.com\" target=\"_blank\">(www.internationalfraudgroup.com)</a>, a group of specialized fraud lawyers active across more than 20 financial centers and offshore jurisdictions around the world, focused on securing injunctions, asset recovery and trust busting remedies."
     },
     {
-      "id": "practiceareas.bankfinance",
+      "practiceArea": "banking-finance",
       "expertise": "As former deputy secretary of the Supervisory Board CDB (Swiss Bank Codes of Conduct), Robert Fiechter has extensive experience in banking regulatory issues, international administrative and criminal legal assistance. Robert Fiechter regularly handles procedures involving international administrative assistance concerning requests emanating from the SEC and the French COB as well as from the US Department of Justice and other foreign criminal prosecution authorities."
     },
     {
-      "id": "practiceareas.private",
+      "practiceArea": "private-clients",
       "expertise": "Robert Fiechter advises high networth individuals and families on asset protection and conveyance of estates. He also acts as executor in domestic and international successions."
     },
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": ""
     }
   ],

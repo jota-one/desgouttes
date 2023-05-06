@@ -23,17 +23,17 @@
     "Swiss Institute of Directors (SIoD)",
     "Swiss Board Network"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.privequity",
+      "practiceArea": "ma-private-equity-venture-capital",
       "expertise": "Leila Hawa regularly advises on international and domestic transactions, including acquisitions, private equity buy-outs, venture capital investments, mergers, and transactional real estate matters for listed and non-listed companies in all service and industry sectors (e.g., IT, new technologies, oil and gas, luxury goods, banking, insurance, real estate). She leads due diligence teams, advises on the structure of the transactions, negotiates and drafts the transactional documents (investment and shareholders' agreements, share/asset purchase agreements, joint ventures, stock option and purchase plans, non-competition and employment agreements, sale and lease back agreements)."
     },
     {
-      "id": "practiceareas.bankfinance",
+      "practiceArea": "banking-finance",
       "expertise": "Leila Hawa advises on credit facility (including bonds and convertible facilities), asset securitization, and insolvency matters; she assists clients on debt and equity (re)financing and restructuring. Leila Hawa advises insurance companies and banks on regulatory matters, as well as on offering and listing prospectuses for the issuance of stocks and bonds. She also advises clients on the acquisition/sale of banks."
     },
     {
-      "id": "practiceareas.contract",
+      "practiceArea": "corporate-contracts",
       "expertise": "Leila Hawa advises clients on corporate law matters (best practice, corporate governance, setting up of corporate entities and branches, equity structures, e.g., authorized and conditional capital, preferred shares, preferential voting shares).\nLeila Hawa advises on the negotiation and drafting of commercial contracts (umbrella and service level agreements, manufacturing, supply, distribution, cooperation, franchise, and licensing agreements)."
     }
   ],

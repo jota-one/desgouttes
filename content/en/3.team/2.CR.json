@@ -28,17 +28,17 @@
     "International Fraud Group (IFG)",
     "Women's White Collar Defense Association (WWCDA)"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.fraud",
+      "practiceArea": "fraud-financial-crime-assets-recovery",
       "expertise": "Carla Reyes' primary fields of practice are complex fraud matters, business crime, international mutual legal assistance (criminal, administrative and tax related), extradition, as well as compliance and regulatory.\n\nShe is frequently retained as counsel in connection with white-collar crime cases at a federal or state level.\n\nShe regularly handles issues related to corporate investigations and assists clients in settlement negotiations.\n\nCarla Reyes regularly ensures the enforcement of foreign and national decisions and clients' rights by means of criminal proceedings, asset tracing and recovery, as well as civil seizure of assets on behalf of financially harmed clients.\n\nWWL says: Carla Reyes is a leading white-collar crime lawyer, whom peers endorse as \"a formidable advocate and excellent lawyer\"."
     },
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": "Carla Reyes has a broad practice across the spectrum of criminal and commercial litigation both before state courts and other Swiss federal jurisdictions. In particular, she enjoys considerable experience in domestic and cross-border multi-jurisdictional litigation matters.\n\nShe practices, among others, in international commercial disputes of a civil nature, in particular in the banking and trading industry."
     },
     {
-      "id": "International Sanctions",
+      "title": "International Sanctions",
       "expertise": "Carla Reyes has also developed a strong practice before the Federal authorities in embargoes, sanctions matters and political freezing of assets."
     }
   ],

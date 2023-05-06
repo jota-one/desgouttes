@@ -20,17 +20,17 @@
     "Geneva Bar Association (OdA)",
     "Swiss Bar Association (SAV)"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.fraud",
+      "practiceArea": "fraud-financial-crime-assets-recovery",
       "expertise": "Vince Thabuis is primarily active in fraud matters, business crime and international mutual legal assistance (criminal and tax related) proceedings.<br>He also assists financially harmed clients in the matter of asset tracing and recovery, as well as civil seizure of assets and enforcement of foreign and national decisions so as to obtain compensation and/or restitution of their assets."
     },
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": "Vince Thabuis regularly represents clients before the Swiss federal and state courts in civil, commercial, banking and criminal litigation proceedings.<br>His experience in civil proceedings encompasses, among others, corporate and contract law.<br>With regard to criminal proceedings, he is mainly active in white-collar crime matters."
     },
     {
-      "id": "practiceareas.enforcement",
+      "practiceArea": "insolvency-restructuring",
       "expertise": "Vince Thabuis frequently assists debtors and creditors in the matter of debt collection and bankruptcy proceedings and related litigation."
     }
   ],

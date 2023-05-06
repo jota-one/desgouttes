@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-export interface PracticeArea {
+interface PracticeArea {
   title: string
   link: string
 }

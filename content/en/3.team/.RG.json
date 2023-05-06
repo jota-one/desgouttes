@@ -19,17 +19,17 @@
     "Geneva Bar Association (OdA)",
     "Swiss Bar Association (SAV)"
   ],
-  "practiceAreas": [
+  "expertiseDomains": [
     {
-      "id": "practiceareas.disputeres",
+      "practiceArea": "litigation-arbitration",
       "expertise": "Rhoxane Gros advises and represents clients on domestic and international litigation before the courts in Geneva, mainly in criminal and civil law matters."
     },
     {
-      "id": "practiceareas.fraud",
+      "practiceArea": "fraud-financial-crime-assets-recovery",
       "expertise": "Rhoxane Gros advises clients on asset protection and asset recovery in connection with fraud cases and ensures clients' rights by means of civil seizure of assets and criminal proceedings."
     },
     {
-      "id": "practiceareas.contract",
+      "practiceArea": "corporate-contracts",
       "expertise": "Rhoxane Gros further assists clients on corporate law matters and handles issues of corporate law including corporate housekeeping."
     }
   ],
