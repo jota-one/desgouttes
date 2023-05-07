@@ -9,12 +9,14 @@
 </template>
 <script setup lang="ts">
 const { data } = await useAsyncData('pa', () =>
-  queryContent('/en/team/').only(['title', 'initials', '_path']).find(),
+  queryContent('/en/team/')
+    .only(['title', 'initials', 'firstname', 'lastname', '_path'])
+    .find(),
 )
 const attorneys = computed(() =>
   (data.value || []).map(attorney => ({
     initials: attorney.initials,
-    name: attorney.title,
+    name: `${attorney.firstname} ${attorney.lastname}`,
     link: attorney._path,
   })),
 )
@@ -23,16 +25,18 @@ const attorneys = computed(() =>
 @import '/assets/styles/_mediaquery.pcss';
 
 .cards {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 2rem;
-  margin-bottom: 2rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0 auto;
+  gap: var(--size-base-4);
 
   @media (--tablet) {
-    flex-direction: row;
-    flex-wrap: wrap;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (--laptop) {
+    grid-template-columns: repeat(5, 1fr);
   }
 }
 </style>

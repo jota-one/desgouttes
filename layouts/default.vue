@@ -24,7 +24,7 @@
         <div :class="['body', { transparent: !page.banner }]">
           <slot />
         </div>
-        <div class="footer">
+        <div v-if="!page.noFooter" class="footer">
           <div>
             Copyright © 2017-{{ year }} Des Gouttes & Associés -
             <a href="/pdf/privacy-policy-19-09-18.pdf" target="_blank">
@@ -115,6 +115,10 @@ const navBannerImage = computed(() =>
     max-height: 320px;
     height: auto;
     z-index: 2;
+
+    @media (--mobile-only) {
+      display: none;
+    }
   }
 }
 
@@ -138,10 +142,6 @@ const navBannerImage = computed(() =>
     position: sticky;
     top: 0;
     min-height: 220px;
-  }
-
-  @media (--desktop) {
-    min-height: 180px;
   }
 
   img {
@@ -193,6 +193,12 @@ const navBannerImage = computed(() =>
     margin: 0 var(--size-base-12);
     padding: var(--size-base-12);
   }
+
+  &.transparent {
+    padding-left: var(--size-base-4);
+    padding-right: var(--size-base-4);
+    background: transparent;
+  }
 }
 
 .body {
@@ -202,10 +208,6 @@ const navBannerImage = computed(() =>
   @media (--tablet) {
     margin-top: calc(-1 * var(--size-base-9));
     padding-bottom: 0;
-  }
-
-  &.transparent {
-    background: transparent;
   }
 }
 

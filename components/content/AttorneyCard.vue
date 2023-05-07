@@ -29,37 +29,44 @@ defineProps<Props>()
   display: flex;
   width: 100%;
   height: 100%;
-  max-width: 15rem;
 
-  @media (--tablet) {
-    width: 12rem;
+  @media (--mobile-only) {
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--size-base-2);
+    max-width: 300px;
   }
 
-  &:hover {
-    .overlay {
-      opacity: 1;
-    }
+  @media (--tablet) {
+    &:hover {
+      .overlay {
+        opacity: 1;
+      }
 
-    .image {
-      filter: grayscale();
+      .image {
+        filter: grayscale();
+      }
     }
   }
 }
 
 .overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  color: rgb(var(--color-white));
-  background: rgb(var(--color-primary), 0.7);
-  opacity: 0;
-  transition: opacity 0.1s linear;
+  @media (--tablet) {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(var(--color-white));
+    background: rgb(var(--color-primary), 0.7);
+    opacity: 0;
+    transition: opacity 0.1s linear;
+  }
 }
 
 .image {

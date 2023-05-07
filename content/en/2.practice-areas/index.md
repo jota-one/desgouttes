@@ -1,5 +1,6 @@
 ---
 navBanner: practiceareas_RANDOM.jpg
+noFooter: true
 ---
 
 # Practice areas
