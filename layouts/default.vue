@@ -31,7 +31,9 @@
               Privacy Policy
             </a>
           </div>
-          Jota for the win!
+          <a href="https://jota.one" target="_blank" class="jota">
+            <img src="/imgs/jota.svg" />
+          </a>
         </div>
       </main>
     </div>
@@ -219,6 +221,12 @@ const navBannerImage = computed(() =>
   @media (--tablet) {
     padding-top: var(--size-base-10);
     padding-bottom: var(--size-base-10);
+  }
+}
+
+.jota {
+  img {
+    width: 100px;
   }
 }
 </style>
