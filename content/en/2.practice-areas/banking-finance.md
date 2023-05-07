@@ -1,6 +1,3 @@
----
-layout: default
----
 # Banking and Finance
 
 With decades of experience servicing first class Swiss banking institutions, as counsels, but also as board members of banks and members of the Swiss bank's code of conduct supervisory commission, we are recognized for our expertise and the quality of the services we provide to banks, securities dealers, wealth managers, investment funds, fund managers, insurance companies and brokers, trading companies and private clients in Switzerland and abroad.

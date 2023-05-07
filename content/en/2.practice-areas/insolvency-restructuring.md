@@ -1,7 +1,4 @@
----
-layout: default
----
-# Insolvency and Restructuring
+s# Insolvency and Restructuring
 
 We have extensive experience in representing creditors and debtors in complex domestic and cross-border (in-court and out-of-court) restructuring and insolvency proceedings. We also assist our clients in identifying and addressing insolvency related risks through appropriate structuring of transactions and contract drafting, and often counsel creditors in pre-insolvency enforcement scenarios. We also provide advice to banks and other creditors in connection with the securing and/or enforcement of their claims. If and when bankruptcy authorities are involved, we represent insolvent companies and creditors in the context of a liquidation, composition and restructuring.
 

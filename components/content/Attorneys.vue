@@ -30,7 +30,7 @@ const attorneys = computed(() =>
   gap: 2rem;
   margin-bottom: 2rem;
 
-  @media (--desktop) {
+  @media (--tablet) {
     flex-direction: row;
     flex-wrap: wrap;
   }

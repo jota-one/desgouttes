@@ -34,6 +34,7 @@
   <SimpleList title="Memberships" :items="memberships" />
   <Extended :initials="page.initials" :version="page.cvVersion" />
 </template>
+
 <script setup lang="ts">
 import Chronology from '~/components/attorney/Chronology.vue'
 import Expertise from '~/components/attorney/Expertise.vue'

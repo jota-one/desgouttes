@@ -33,7 +33,7 @@ defineProps<Props>()
   overflow: hidden;
   align-items: center;
 
-  @media (--desktop) {
+  @media (--tablet) {
     width: 12rem;
   }
 

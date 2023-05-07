@@ -1,5 +1,5 @@
 ---
-layout: default
+navBanner: team.jpg
 ---
 # Our team
 ::attorneys

@@ -3,9 +3,9 @@
   <div class="website">
     <header class="sidebar">
       <div class="logo">
-        <NuxtLink href="/"
-          ><img class="img-responsive" src="/imgs/logo.png" alt=""
-        /></NuxtLink>
+        <NuxtLink href="/">
+          <img class="img-responsive" src="/imgs/logo.png" alt="" />
+        </NuxtLink>
       </div>
       <Navigation class="nav" />
     </header>
@@ -37,12 +37,14 @@
 }
 
 .sidebar {
-  background-color: #e7eeef;
+  background-color: red;
   width: 25%;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
   padding: 7vh 3vw 0 0;
+
+  position: absolute;
 }
 
 .logo {

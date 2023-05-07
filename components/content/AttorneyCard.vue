@@ -31,7 +31,7 @@ defineProps<Props>()
   height: 100%;
   max-width: 15rem;
 
-  @media (--desktop) {
+  @media (--tablet) {
     width: 12rem;
   }
 
