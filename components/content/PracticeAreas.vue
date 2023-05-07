@@ -21,16 +21,18 @@ const practiceAreas = computed(() =>
 @import '/assets/styles/_mediaquery.pcss';
 
 .cards {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 2rem;
-  margin-bottom: 2rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 0 auto;
+  gap: var(--size-base-4);
 
   @media (--tablet) {
-    flex-direction: row;
-    flex-wrap: wrap;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  @media (--desktop) {
+    gap: var(--size-base-6);
   }
 }
 </style>
