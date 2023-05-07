@@ -1,10 +1,22 @@
 <template>
-  <article :class="['article', { 'hide-h1': page?.hideTitle }]">
+  <article
+    :class="[
+      'article',
+      { 'hide-h1': page?.hideTitle, 'homepage': page?.homepage },
+    ]"
+  >
     <header class="header">
-      <button class="hamburger" @click="navigationOpened = true" />
-      <img class="logo" src="/imgs/logo.png" alt="" />
+      <button
+        v-if="!page?.homepage"
+        class="hamburger"
+        @click="navigationOpened = true"
+      />
+      <NuxtLink href="/" class="logo">
+        <img src="/imgs/logo.png" alt="" />
+      </NuxtLink>
       <Navigation
         class="navigation"
+        :homepage="Boolean(page?.homepage)"
         :opened="navigationOpened"
         @close="navigationOpened = false"
       />
@@ -16,20 +28,23 @@
         class="nav-banner"
       />
     </header>
+    <div v-if="page?.homepage" class="homepage-welcome">
+      <slot />
+    </div>
     <div class="wrapper">
       <div class="banner">
         <img v-if="page.banner" :src="`/imgs/hero/${page.banner}`" />
       </div>
       <main class="main">
         <div :class="['body', { transparent: !page.bodyBg }]">
-          <slot />
+          <slot v-if="!page?.homepage" />
           <NuxtLink
             v-if="page.backOnClose"
             :href="page.backOnClose"
             class="close"
           />
         </div>
-        <div v-if="!page.noFooter" class="footer">
+        <div v-if="!page.noFooter && !page?.homepage" class="footer">
           <div>
             Copyright © 2017-{{ year }} Des Gouttes & Associés -
             <a
@@ -84,6 +99,17 @@ const navBannerImage = computed(() =>
       'header banner'
       'header body';
   }
+
+  &.homepage {
+    @media (--mobile-only) {
+      display: flex;
+      flex-direction: column;
+    }
+
+    @media (--tablet) {
+      position: relative;
+    }
+  }
 }
 
 .header {
@@ -100,10 +126,35 @@ const navBannerImage = computed(() =>
     padding: var(--size-base-10) 0;
   }
 
+  .homepage & {
+    background: rgb(var(--color-bg));
+
+    @media (--mobile-only) {
+      position: absolute;
+      width: 75vw;
+      top: var(--size-base-12);
+      left: 12.5vw;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: var(--size-base-9);
+      background: rgba(var(--color-bg), 0.85);
+      box-shadow: 0 0 var(--size-base-6) rgba(var(--color-black), 0.5);
+    }
+  }
+
   .logo {
+    display: flex;
+    justify-content: flex-end;
     margin: var(--size-base-6);
     height: var(--size-base-9);
-    width: auto;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
 
     @media (--tablet) {
       margin: 0 var(--size-base-6) var(--size-base-12);
@@ -114,8 +165,18 @@ const navBannerImage = computed(() =>
 
     @media (--desktop) {
       width: 180px;
-      margin-right: var(--size-base-14);
+      margin-right: var(--size-base-15);
       margin-bottom: var(--size-base-18);
+    }
+
+    .homepage & {
+      @media (--mobile-only) {
+        margin: 0;
+        width: 100%;
+        max-width: 400px;
+        height: auto;
+        margin-bottom: var(--size-base-8);
+      }
     }
   }
 
@@ -129,6 +190,40 @@ const navBannerImage = computed(() =>
 
     @media (--mobile-only) {
       display: none;
+    }
+  }
+}
+
+.homepage-welcome {
+  @media (--mobile-only) {
+    display: none;
+  }
+
+  @media (--tablet) {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 450px 100px 100px 100px;
+    padding: var(--size-base-2) var(--size-base-8);
+    letter-spacing: var(--size-base-2);
+    color: rgb(var(--color-white));
+    background: rgba(var(--color-primary), 0.6);
+
+    :deep(h1) {
+      font-size: 20px;
+    }
+  }
+
+  @media (--tablet) {
+    margin: 450px 160px 100px 70px;
+    padding: var(--size-base-2) 60px;
+  }
+
+  @media (--desktop) {
+    padding: var(--size-base-2) 160px;
+
+    :deep(h1) {
+      font-size: 24px;
     }
   }
 }
@@ -192,6 +287,15 @@ const navBannerImage = computed(() =>
     overflow: auto;
     height: 100vh;
   }
+
+  .homepage & {
+    background-image: url(/imgs/homepage.jpg);
+    background-size: cover;
+
+    @media (--mobile-only) {
+      height: 100vh;
+    }
+  }
 }
 
 .main {
@@ -208,6 +312,16 @@ const navBannerImage = computed(() =>
 
   @media (--desktop) {
     padding-bottom: var(--size-base-12);
+  }
+
+  .homepage & {
+    padding: var(--size-base-3);
+    color: rgb(var(--color-white));
+    background: transparent;
+
+    @media (--mobile-only) {
+      display: none;
+    }
   }
 }
 

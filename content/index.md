@@ -1,1 +1,6 @@
-# Welcome to Des Gouttes &amp; Associés
+---
+homepage: true
+noFooter: true
+---
+
+# Welcome to Des Gouttes &amp;&nbsp;Associés
