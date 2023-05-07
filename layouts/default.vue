@@ -1,5 +1,5 @@
 <template>
-  <article :class="['article', { 'hide-h1': page.hideTitle }]">
+  <article :class="['article', { 'hide-h1': page?.hideTitle }]">
     <header class="header">
       <button class="hamburger" @click="navigationOpened = true" />
       <img class="logo" src="/imgs/logo.png" alt="" />
@@ -32,7 +32,11 @@
         <div v-if="!page.noFooter" class="footer">
           <div>
             Copyright © 2017-{{ year }} Des Gouttes & Associés -
-            <a href="/pdf/privacy-policy-19-09-18.pdf" target="_blank">
+            <a
+              class="link"
+              href="/pdf/privacy-policy-19-09-18.pdf"
+              target="_blank"
+            >
               Privacy Policy
             </a>
           </div>

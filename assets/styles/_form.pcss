@@ -1,0 +1,57 @@
+.field {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--size-base-3);
+
+  .label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 13px;
+    padding: var(--size-base) var(--size-base-2);
+    background: rgb(var(--color-white));
+  }
+}
+
+.input,
+.textarea,
+.dropdown {
+  padding: var(--size-base-6) var(--size-base-2) var(--size-base-2);
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  border-bottom: 1px solid rgba(var(--color-neutral), 0.5);
+  border-radius: var(--size-base);
+  background: rgb(var(--color-white));
+  box-shadow: 0 0 var(--size-base-2) rgba(var(--color-black), 0.05);
+
+  &:focus {
+    outline: none;
+    border-color: rgb(var(--color-primary));
+    background: rgb(var(--color-white));
+  }
+}
+
+.textarea {
+  resize: none;
+}
+
+.dropdown {
+  appearance: none;
+  padding-top: var(--size-base-2);
+  padding-right: var(--size-base-6);
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 13 9'%3E%3Cpath fill='rgb(180,180,180)' d='M2.453.921c-.948-.947-1.895 0-1.895 0s-.948.947 0 1.895L6.242 8.5l5.684-5.684c.948-.948 0-1.895 0-1.895s-.947-.947-1.895 0l-3.789 3.79L2.452.92Z'/%3E%3C/svg%3E");
+  background-position: right var(--size-base-2) center;
+  background-repeat: no-repeat;
+  background-size: var(--size-base-3);
+}
+
+.button {
+  padding: var(--size-base-3) var(--size-base-4);
+  font-size: 1rem;
+  color: rgb(var(--color-white));
+  border-radius: var(--size-base-2);
+  background: rgb(var(--color-primary));
+}
