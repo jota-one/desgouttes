@@ -85,15 +85,39 @@ const i18nNavigation = computed(() =>
 }
 
 .close {
+  position: relative;
   align-self: flex-start;
   margin: var(--size-base-2) var(--size-base-2) var(--size-base-10);
   width: var(--size-base-6);
   height: var(--size-base-6);
-  background: gray;
+  transform: rotate(45deg);
+  transform-origin: center;
   cursor: pointer;
 
   @media (--tablet) {
     display: none;
+  }
+
+  &:before,
+  &:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: calc(50% - 1px);
+    height: 2px;
+    background: rgb(var(--color-neutral));
+    transition: background 0.2s ease-in-out;
+  }
+
+  &:after {
+    transform: rotate(90deg);
+    transform-origin: center;
+  }
+
+  &:hover:before,
+  &:hover:after {
+    background: rgb(var(--color-primary));
   }
 }
 </style>

@@ -1,4 +1,9 @@
-# Fraud, Financial Crime and Asset Recovery
+---
+bodyBg: true
+backOnClose: /en/practice-areas
+---
+
+::anchored{on="h2" title="Fraud, Financial Crime and Asset Recovery"}
 
 In recent years, governments have increased their efforts and adapted their laws and regulations in order to fight fraud, corruption, money laundering, financing of criminal activities and terrorism. As a result, criminal law is increasingly important for international business and finance.
 
@@ -11,3 +16,4 @@ We work closely with banks and other financial institutions to assist them in se
 We are part of the International Fraud Group ([www.internationalfraudgroup.com](//www.internationalfraudgroup.com)), a global network of highly competent specialists equipped with everything t takes to trace, freeze, seize, secure and return assets.
 
 Main Contacts: [Carla Reyes](/en/team/cr), [Arun Chandrasekharan](/en/team/ac), [Robert Fiechter](/en/team/rf)
+::

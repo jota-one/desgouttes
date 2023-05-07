@@ -1,4 +1,9 @@
-# Private Clients
+---
+bodyBg: true
+backOnClose: /en/practice-areas
+---
+
+::anchored{on="h2" title="Private Clients"}
 
 ## Estate Planning and Wealth Management
 We provide Swiss and non-Swiss individuals and families, foundations and trusts, as well as private banks, family offices and other wealth management service providers, expert advice and sophisticated, tailor-made solutions with regard to all aspects of global estate planning, coordinating, structuring of their private wealth and business assets.
@@ -36,3 +41,4 @@ We have expertise in the following areas:
 - Regularization of undisclosed assets
 
 Main contacts: [Robert Fiechter](/en/team/rf), [Ivan Cohen](/en/team/ic)
+::

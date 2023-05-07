@@ -22,6 +22,7 @@ html {
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -30,6 +31,7 @@ body {
   overflow-x: hidden;
   font-size: 17px;
   line-height: 1.42857;
+  color: rgb(var(--color-text));
 
   @media (--desktop) {
     font-size: 18px;
@@ -50,19 +52,19 @@ a:hover {
   color: rgb(var(--color-primary));
 }
 
+p a {
+  text-decoration: underline;
+}
+
 pre {
   white-space: break-spaces;
 }
 
-img {
-  width: 50px;
-  height: auto;
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
+  line-height: 1.3;
 }
 
-h1 {
+.hide-h1 h1 {
   display: none;
 }

@@ -1,4 +1,9 @@
-# Banking and Finance
+---
+bodyBg: true
+backOnClose: /en/practice-areas
+---
+
+::anchored{on="h2" title="Banking and Finance"}
 
 With decades of experience servicing first class Swiss banking institutions, as counsels, but also as board members of banks and members of the Swiss bank's code of conduct supervisory commission, we are recognized for our expertise and the quality of the services we provide to banks, securities dealers, wealth managers, investment funds, fund managers, insurance companies and brokers, trading companies and private clients in Switzerland and abroad.
 
@@ -58,3 +63,4 @@ Banking and financial institutions are important actors of the Swiss economy. In
 - Representation of regulated institutions and their corporate bodies during preliminary investigations and administrative proceedings (regulatory enforcement) by FINMA, other supervisory bodies or self-regulation bodies. We are also very actively involved in carrying out critical internal investigations for our clients, frequently for presentation to Swiss and foreign supervisory authorities
 
 Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Carla Reyes](/en/team/cr), [Robert Fiechter](/en/team/rf)
+::

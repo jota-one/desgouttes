@@ -1,5 +1,5 @@
 <template>
-  <div ref="container" class="sub-nav">
+  <div class="sub-nav">
     <nav class="nav">
       <button
         v-for="(item, index) in nav"
@@ -10,7 +10,7 @@
         {{ item }}
       </button>
     </nav>
-    <div class="content">
+    <div ref="container" class="content">
       <slot />
     </div>
   </div>

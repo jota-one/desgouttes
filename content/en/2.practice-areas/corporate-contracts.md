@@ -1,4 +1,9 @@
-# Corporate and Contracts
+---
+bodyBg: true
+backOnClose: /en/practice-areas
+---
+
+::anchored{on="h2" title="Corporate and Contracts"}
 
 Our experience and expertise enable us to provide clients, even on short notice, with cutting-edge yet comprehensive advice on all types of corporate and commercial matters across all relevant industry sectors.
 
@@ -42,3 +47,4 @@ Drafting and negotiation of all types of commercial contracts, such as:
 - Commercial and contract related litigation and arbitration (disputes on sale, enterprise, distribution, agency, license agreements and actions relating to liability, the annulment of executive bodies’ decisions, special audit)
 
 Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Leila Hawa](/en/team/lh)
+::

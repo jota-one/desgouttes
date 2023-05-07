@@ -1,4 +1,9 @@
-# Employment and Immigration
+---
+bodyBg: true
+backOnClose: /en/practice-areas
+---
+
+::anchored{on="h2" title="Employment and Immigration"}
 
 ## Employment
 We have extensive experience in employment matters, in particular in the negotiation and drafting of employment agreements, bonus and incentive schemes, termination (individual or mass) agreements, intellectual property ownership, non-compete and non-solicitation clauses, data protection and internal policies. We also conduct due diligence on companies across all industries in transaction related matters, including compliance to employment law, social security, health and security requirements.
@@ -41,3 +46,4 @@ We further provide expert assistance in relation to mass dismissal, including no
 We regularly advise on all implications of employment matters in connection with corporate transactions, i.e. due diligence on employment, social security and pension matters, analysis of their impact on purchase agreements, balancing of pension coverage levels, establishing new pension plans, etc.
 
 Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Nathalie Bessard](/en/team/nb)
+::

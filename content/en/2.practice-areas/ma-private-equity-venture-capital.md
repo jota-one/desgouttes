@@ -1,4 +1,9 @@
-# M&A, Private Equity and Venture Capital
+---
+bodyBg: true
+backOnClose: /en/practice-areas
+---
+
+::anchored{on="h2" title="M&A, Private Equity and Venture Capital"}
 
 Des Gouttes & Associés acts as lead counsel or special Swiss counsel in structuring complex cross-border and domestic M&A transactions. We advise large multinational companies, private equity and venture capital funds, family offices, directors, managers as well as individual entrepreneurs and investors in domestic and cross-border acquisitions, LBOs, MBOs, MBIs, mergers, corporate restructurings, divestitures, spin-offs, and joint ventures in all industry sectors (e.g., banking and financial services, telecom, IT, multimedia, education life science and healthcare, biotech, hotel, real estate, luxury goods, defense technologies).
 
@@ -19,3 +24,4 @@ Our services include:
 - [Corporate and M&A-related litigation and arbitration](/en/practice-areas/litigation-arbitration)
 
 Main Contacts: [Leila Hawa](/en/team/lh), [Arun Chandrasekharan](/en/team/ac)
+::
