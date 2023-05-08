@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h2>Expertise</h2>
+    <h2 class="title">Expertise</h2>
     <template v-for="(domain, index) in formattedDomains" :key="index">
-      <h3 v-html="domain.title"></h3>
+      <h3 class="sub-title" v-html="domain.title"></h3>
       <ContentRendererMarkdown v-if="domain.content" :value="domain.content" />
     </template>
   </div>
@@ -62,4 +62,19 @@ onMounted(async () => {
 })
 </script>
 
-<style scoped></style>
+<style lang="postcss" scoped>
+@import '/assets/styles/_mediaquery.pcss';
+
+.title {
+  margin-bottom: calc(-1 * var(--size-base-6));
+  font-size: 30px;
+}
+
+.sub-title {
+  padding-top: var(--size-base-5);
+
+  @media (--resume-2-cols) {
+    font-size: 24px;
+  }
+}
+</style>

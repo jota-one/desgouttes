@@ -1,10 +1,10 @@
 <template>
   <div>
-    <h2>Extended Profile</h2>
-    <div class="flex items-center">
-      <img src="/imgs/icons/pdf-icon.png" alt="contact" class="mr-2" />
-      <a :href="url" target="_blank">PDF version</a>
-    </div>
+    <h2 class="title">Extended Profile</h2>
+    <a class="download-link" :href="url" target="_blank">
+      <img src="/imgs/icons/pdf-icon.png" alt="contact" />
+      PDF version
+    </a>
   </div>
 </template>
 
@@ -22,4 +22,25 @@ const url = computed(() => {
 })
 </script>
 
-<style scoped></style>
+<style lang="postcss" scoped>
+.title {
+  padding-top: var(--size-base-5);
+  font-size: 30px;
+}
+
+.download-link {
+  display: flex;
+  align-items: center;
+  gap: var(--size-base-2);
+  font-size: 20px;
+  color: rgb(var(--color-neutral-dark));
+
+  &:hover {
+    color: rgb(var(--color-primary));
+  }
+
+  img {
+    height: var(--size-base-8);
+  }
+}
+</style>

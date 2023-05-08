@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>{{ title }}</h2>
+    <h2 class="title">{{ title }}</h2>
     <ul>
       <li v-for="({ link, label }, index) in items" :key="index">
         <NuxtLink v-if="link" :href="link">{{ label }}</NuxtLink>
@@ -22,4 +22,9 @@ type Props = {
 defineProps<Props>()
 </script>
 
-<style scoped></style>
+<style lang="postcss" scoped>
+.title {
+  padding-top: var(--size-base-5);
+  font-size: 30px;
+}
+</style>

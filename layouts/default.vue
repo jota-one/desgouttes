@@ -44,27 +44,12 @@
             class="close"
           />
         </div>
-        <div v-if="!page.noFooter && !page?.homepage" class="footer">
-          <div>
-            Copyright © 2017-{{ year }} Des Gouttes & Associés -
-            <a
-              class="link"
-              href="/pdf/privacy-policy-19-09-18.pdf"
-              target="_blank"
-            >
-              Privacy Policy
-            </a>
-          </div>
-          <a href="https://jota.one" target="_blank" class="jota">
-            <img src="/imgs/jota.svg" />
-          </a>
-        </div>
+        <PageFooter v-if="!page.noFooter && !page?.homepage" class="footer" />
       </main>
     </div>
   </article>
 </template>
 <script setup lang="ts">
-const year = computed(() => new Date().getFullYear())
 const { page } = useContent()
 const navigationOpened = ref(false)
 const navBannerImage = computed(() =>
@@ -81,7 +66,7 @@ const navBannerImage = computed(() =>
 .article {
   min-height: 100vh;
   height: 100%;
-  max-width: 1600px;
+  max-width: var(--size-page-max-width);
   margin: 0 auto;
 
   display: grid;
@@ -393,19 +378,9 @@ const navBannerImage = computed(() =>
 }
 
 .footer {
-  display: flex;
-  justify-content: space-between;
-  font-size: 13px;
-
   @media (--tablet) {
     padding-top: var(--size-base-10);
     padding-bottom: var(--size-base-10);
-  }
-}
-
-.jota {
-  img {
-    width: 100px;
   }
 }
 </style>
