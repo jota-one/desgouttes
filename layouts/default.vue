@@ -55,7 +55,7 @@ const navigationOpened = ref(false)
 const navBannerImage = computed(() =>
   page.value.navBanner?.replace(
     'RANDOM',
-    (Math.random() * 15).toString().split('.')[0],
+    (Math.random() * 15 + 1).toString().split('.')[0],
   ),
 )
 </script>
