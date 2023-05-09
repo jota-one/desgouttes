@@ -131,6 +131,8 @@ const sendEmail = async () => {
       body: form.value,
     })
 
+    console.log(data)
+    console.log(data.value)
     if (data.value.success) {
       mailSent.value = true
       form.value = {
