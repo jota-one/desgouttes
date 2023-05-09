@@ -131,9 +131,11 @@ const sendEmail = async () => {
       body: form.value,
     })
 
-    console.log(data)
-    console.log(data.value)
-    if (data.value.success) {
+    let result = data.value
+    if (typeof result === 'string') {
+      result = JSON.parse(result)
+    }
+    if (result.success) {
       mailSent.value = true
       form.value = {
         name: '',
