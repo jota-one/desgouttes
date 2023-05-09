@@ -6,7 +6,10 @@
         <slot name="map" />
       </div>
     </div>
-    <form class="form" @submit.prevent="sendEmail">
+    <form v-if="!mailSent" class="form" @submit.prevent="sendEmail">
+      <div v-if="error" class="error">
+        An error has occurred. Your email was not sent. Please retry.
+      </div>
       <div class="form-item">
         <label class="field required">
           <span class="label">Name</span>
@@ -52,7 +55,7 @@
             <option
               v-for="attorney in attorneys"
               :key="attorney.initials"
-              :value="attorney.initials"
+              :value="attorney.email"
             >
               {{ attorney.firstname }} {{ attorney.lastname }}
             </option>
@@ -73,7 +76,7 @@
         </label>
       </div>
       <div class="form-action">
-        <button type="submit" :disabled="!formValid" class="button">
+        <button type="submit" :disabled="!formValid || sending" class="button">
           Send
         </button>
         <div class="mandatory-fields-info">
@@ -81,6 +84,9 @@
         </div>
       </div>
     </form>
+    <div v-else class="form">
+      <p>Thank you for your email.</p>
+    </div>
   </div>
 </template>
 
@@ -99,10 +105,13 @@ const form = ref<EmailForm>({
   dest: '',
   message: '',
 })
+const mailSent = ref(false)
+const sending = ref(false)
+const error = ref(false)
 
 const { data: attorneys } = await useAsyncData('pa', () =>
   queryContent('/en/team/')
-    .only(['title', 'initials', 'firstname', 'lastname'])
+    .only(['title', 'initials', 'email', 'firstname', 'lastname'])
     .find(),
 )
 
@@ -113,8 +122,32 @@ const formValid = computed(
     form.value.message !== '',
 )
 
-const sendEmail = () => {
-  console.log('send email', form.value)
+const sendEmail = async () => {
+  sending.value = true
+  error.value = false
+  try {
+    const { data } = await useFetch('/.netlify/functions/sendmail', {
+      method: 'post',
+      body: form.value,
+    })
+
+    if (data.value.success) {
+      mailSent.value = true
+      form.value = {
+        name: '',
+        email: '',
+        phone: '',
+        dest: '',
+        message: '',
+      }
+    } else {
+      error.value = true
+    }
+  } catch (e) {
+    error.value = true
+  } finally {
+    sending.value = false
+  }
 }
 </script>
 
@@ -131,6 +164,11 @@ const sendEmail = () => {
     flex-direction: row;
     gap: var(--size-base-6);
   }
+}
+
+.error {
+  color: #ce5541;
+  margin-bottom: 1rem;
 }
 
 .infos {
