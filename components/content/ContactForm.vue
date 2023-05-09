@@ -8,21 +8,41 @@
     </div>
     <form class="form" @submit.prevent="sendEmail">
       <div class="form-item">
-        <label class="field">
+        <label class="field required">
           <span class="label">Name</span>
-          <input v-model="form.name" type="text" required class="input" />
+          <input
+            v-model="form.name"
+            type="text"
+            required
+            class="input"
+            name="name"
+            autocomplete="on"
+          />
         </label>
       </div>
       <div class="form-item">
-        <label class="field">
+        <label class="field required">
           <span class="label">E-mail</span>
-          <input v-model="form.email" type="text" required class="input" />
+          <input
+            v-model="form.email"
+            type="text"
+            required
+            class="input"
+            name="email"
+            autocomplete="on"
+          />
         </label>
       </div>
       <div class="form-item">
         <label class="field">
           <span class="label">Phone</span>
-          <input v-model="form.phone" type="text" class="input" />
+          <input
+            v-model="form.phone"
+            type="text"
+            class="input"
+            name="phone"
+            autocomplete="on"
+          />
         </label>
       </div>
       <div class="form-item">
@@ -40,7 +60,7 @@
         </label>
       </div>
       <div class="form-item">
-        <label class="field">
+        <label class="field required">
           <span class="label">Message</span>
           <textarea
             v-model="form.message"
@@ -48,10 +68,18 @@
             name="message"
             rows="8"
             maxlength="5000"
+            required
           />
         </label>
       </div>
-      <button type="submit" :disabled="!formValid" class="button">Send</button>
+      <div class="form-action">
+        <button type="submit" :disabled="!formValid" class="button">
+          Send
+        </button>
+        <div class="mandatory-fields-info">
+          <span class="asterisk">*</span> mandatory fields
+        </div>
+      </div>
     </form>
   </div>
 </template>
@@ -124,6 +152,26 @@ const sendEmail = () => {
 
   :deep(img) {
     border-radius: var(--size-base-2);
+  }
+}
+
+.form-action {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--size-base-2);
+  font-size: 15px;
+  color: rgb(var(--color-neutral));
+}
+
+.mandatory-fields-info {
+  display: flex;
+  align-items: center;
+  gap: var(--size-base-2);
+
+  .asterisk {
+    color: rgb(var(--color-primary));
+    font-size: 18px;
   }
 }
 </style>

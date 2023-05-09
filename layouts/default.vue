@@ -31,7 +31,7 @@
     <div v-if="page?.homepage" class="homepage-welcome">
       <slot />
     </div>
-    <div class="wrapper">
+    <div ref="wrapperEl" class="wrapper">
       <div class="banner">
         <img v-if="page.banner" :src="`/imgs/hero/${page.banner}`" />
       </div>
@@ -44,20 +44,40 @@
             class="close"
           />
         </div>
-        <PageFooter v-if="!page.noFooter && !page?.homepage" class="footer" />
+        <div v-if="!page.noFooter && !page?.homepage" class="footer">
+          <button v-if="page.backToTop" class="back-to-top" @click="scrollTop">
+            Back to top
+          </button>
+          <PageFooter />
+        </div>
       </main>
     </div>
   </article>
 </template>
 <script setup lang="ts">
 const { page } = useContent()
+
+const wrapperEl = ref<HTMLElement>()
 const navigationOpened = ref(false)
+
 const navBannerImage = computed(() =>
   page.value.navBanner?.replace(
     'RANDOM',
     (Math.random() * 15 + 1).toString().split('.')[0],
   ),
 )
+
+const scrollTop = () => {
+  if (!wrapperEl.value) {
+    return
+  }
+
+  wrapperEl.value.scroll({
+    top: 0,
+    left: 0,
+    behavior: 'smooth',
+  })
+}
 </script>
 
 <style lang="postcss" scoped>
@@ -378,9 +398,46 @@ const navBannerImage = computed(() =>
 }
 
 .footer {
+  display: flex;
+  flex-direction: column;
+
   @media (--tablet) {
     padding-top: var(--size-base-10);
     padding-bottom: var(--size-base-10);
+  }
+}
+
+.back-to-top {
+  align-self: flex-end;
+  margin: 0 var(--size-base) var(--size-base-5) 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-family: inherit;
+  font-size: 17px;
+  color: rgb(var(--color-neutral-dark));
+  cursor: pointer;
+
+  &:before,
+  &:after {
+    position: absolute;
+    left: calc(-1 * var(--size-base-3));
+    display: block;
+    content: '';
+    width: var(--size-base-2);
+    height: var(--size-base-2);
+    border-left: 2px solid rgba(var(--color-neutral-dark), 0.5);
+    border-bottom: 2px solid rgba(var(--color-neutral-dark), 0.5);
+    transform: rotate(135deg) scale(0.75);
+    transform-origin: center;
+  }
+
+  &:after {
+    margin-top: var(--size-base-2);
+  }
+
+  &:hover {
+    color: rgb(var(--color-primary));
   }
 }
 </style>

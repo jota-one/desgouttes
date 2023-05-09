@@ -12,6 +12,12 @@ export default defineNuxtConfig({
   modules: ['@nuxt/content'],
   content: {
     documentDriven: true,
+    markdown: {
+      externalLinks: {
+        target: '_blank',
+        rel: false,
+      },
+    },
   },
   tailwindcss: {
     config: {

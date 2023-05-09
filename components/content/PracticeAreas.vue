@@ -6,14 +6,22 @@
 
 <script setup lang="ts">
 const { data } = await useAsyncData('pa', () =>
-  queryContent('/en/practice-areas/').only(['title', '_path']).find(),
+  queryContent('/en/practice-areas/').only(['body', 'title', '_path']).find(),
 )
 
 const practiceAreas = computed(() =>
-  (data.value || []).map(item => ({
-    title: item.title,
-    link: item._path,
-  })),
+  (data.value || []).map(item => {
+    let title = item.title
+
+    try {
+      title = item.body.children[0].props.title
+    } catch (_err) {}
+
+    return {
+      title,
+      link: item._path,
+    }
+  }),
 )
 </script>
 

@@ -1,6 +1,7 @@
 ---
 bodyBg: true
 backOnClose: /en/practice-areas
+backToTop: true
 ---
 
 ::anchored{on="h2" title="Employment and Immigration"}
