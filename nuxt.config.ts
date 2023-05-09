@@ -19,14 +19,6 @@ export default defineNuxtConfig({
       },
     },
   },
-  tailwindcss: {
-    config: {
-      content: ['content/**/*.md'],
-      corePlugins: {
-        preflight: false,
-      },
-    },
-  },
 
   css: ['@/assets/styles/main.pcss'],
 
