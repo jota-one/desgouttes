@@ -6,6 +6,13 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       ],
       link: [{ rel: 'stylesheet', href: '/fonts/Folks.css' }],
+      script: [
+        {
+          'defer': true,
+          'data-domain': 'desgouttes.ch',
+          'src': 'https://plausible.io/js/script.js',
+        },
+      ],
     },
   },
 
