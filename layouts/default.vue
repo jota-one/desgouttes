@@ -54,6 +54,7 @@
     </div>
   </article>
 </template>
+
 <script setup lang="ts">
 const { page } = useContent()
 
@@ -72,11 +73,14 @@ const scrollTop = () => {
     return
   }
 
-  wrapperEl.value.scroll({
+  const scrollToOptions: ScrollToOptions = {
     top: 0,
     left: 0,
     behavior: 'smooth',
-  })
+  }
+
+  window.scroll(scrollToOptions)
+  wrapperEl.value.scroll(scrollToOptions)
 }
 </script>
 
