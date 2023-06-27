@@ -42,19 +42,19 @@
       />
       <div class="chronology">
         <Chronology
-          v-if="page.education.length"
+          v-if="education.length"
           title="Education"
-          :events="page.education.reverse()"
+          :events="education"
         />
         <Chronology
-          v-if="page.experience.length"
+          v-if="experience.length"
           title="Professional Experience"
-          :events="page.experience.reverse()"
+          :events="experience"
         />
         <Chronology
-          v-if="page.others.length"
+          v-if="others.length"
           title="Other Activities"
-          :events="page.others.reverse()"
+          :events="others"
         />
         <SimpleList
           v-if="myPracticeAreas.length"
@@ -111,6 +111,10 @@ const myPracticeAreas = computed(() =>
 const memberships = computed(() =>
   page.value.memberships.map(m => ({ label: m })),
 )
+
+const education = computed(() => [...page.value.education].reverse())
+const experience = computed(() => [...page.value.experience].reverse())
+const others = computed(() => [...page.value.others].reverse())
 
 useHead({ title: `${page.value.firstname} ${page.value.lastname}` })
 </script>
