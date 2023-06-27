@@ -50,7 +50,7 @@ defineProps<Props>()
 
   @media (--resume-2-cols) {
     font-size: inherit;
-    grid-cilumn: 1;
+    grid-column: 1;
   }
 }
 
@@ -61,7 +61,7 @@ defineProps<Props>()
   font-size: 18px;
 
   @media (--resume-2-cols) {
-    grid-cilumn: 2;
+    grid-column: 2;
   }
 }
 </style>
