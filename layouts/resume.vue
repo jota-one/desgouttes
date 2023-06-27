@@ -218,9 +218,13 @@ useHead({ title: `${page.value.firstname} ${page.value.lastname}` })
     left: 0;
     width: 100%;
     height: 0;
-    padding-bottom: 40%;
+    padding-bottom: 50%;
     background: rgb(180, 180, 180, 0.1);
     mix-blend-mode: darken;
+
+    @media (min-width: 600px) {
+      padding-bottom: 40%;
+    }
 
     @media (--resume-2-cols) {
       top: var(--size-base-2);
