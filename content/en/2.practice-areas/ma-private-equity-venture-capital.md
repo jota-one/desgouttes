@@ -3,6 +3,7 @@ bodyBg: true
 navBanner: practiceareas_RANDOM.jpg
 backOnClose: /en/practice-areas
 backToTop: true
+title: M&A, Private Equity and Venture Capital
 ---
 
 ::anchored{on="h2" title="M&A, Private Equity and Venture Capital"}

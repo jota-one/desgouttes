@@ -44,17 +44,17 @@
         <Chronology
           v-if="page.education.length"
           title="Education"
-          :events="page.education"
+          :events="page.education.reverse()"
         />
         <Chronology
           v-if="page.experience.length"
           title="Professional Experience"
-          :events="page.experience"
+          :events="page.experience.reverse()"
         />
         <Chronology
           v-if="page.others.length"
           title="Other Activities"
-          :events="page.others"
+          :events="page.others.reverse()"
         />
         <SimpleList
           v-if="myPracticeAreas.length"

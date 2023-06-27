@@ -4,7 +4,7 @@
     <dl class="list">
       <template v-for="({ date, content }, index) in events" :key="index">
         <dt class="list-title">{{ date }}</dt>
-        <dd class="list-detail">{{ content }}</dd>
+        <dd class="list-detail" v-html="content" />
       </template>
     </dl>
   </div>

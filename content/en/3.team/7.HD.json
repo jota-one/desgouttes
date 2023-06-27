@@ -5,13 +5,13 @@
   "role": "attorney",
   "lastname": "Dagli",
   "firstname": "Hasan",
+  "cvVersion": "v2023",
   "email": "hasan.dagli@desgouttes.ch",
   "phone": "+41 22 704 30 50",
   "languages": [
     "fr",
     "en",
-    "de",
-    "tr"
+    "de"
   ],
   "activities": [
     "Associate",

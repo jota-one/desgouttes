@@ -1,0 +1,81 @@
+{
+  "initials": "JPV",
+  "layout": "resume",
+  "type": "person",
+  "role": "attorney",
+  "lastname": "Vulliéty",
+  "firstname": "Jean-Paul",
+  "cvVersion": "v2023",
+  "email": "jpvulliety@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "en",
+    "de_ch",
+    "fr",
+    "no"
+  ],
+  "activities": [
+    "Senior Counsel",
+    "Attorney at Law",
+    "Full professor of business law, University of Geneva"
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA – former President of the Civil law Commission)",
+    "Swiss Bar Association (SAV)",
+    "Swiss Arbitration Association (ASA)",
+    "Europe-Latin-American Arbitration (ELArb – Member of the Executive Committee)",
+    "Union Internationale des Avocats (UIA – former President of the International Sales Commission)",
+    "Swiss Association of Competition Law, Groupe de Travail Contrats Internationaux (GTCI)"
+  ],
+  "expertiseDomains": [
+    {
+      "practiceArea": "corporate-contracts",
+      "expertise": "Jean-Paul Vulliéty has an extensive experience advising clients in international commercial transactions, subject to Swiss law, foreign laws or international conventions (e.g. the Vienna Convention on Sale of Goods), particularly sales, mandate and service agreements, agency, distribution, license, franchising, shareholder and joint venture agreements. He has frequently acted as lead counsel in complex acquisition operations."
+    },
+    {
+      "practiceArea": "litigation-arbitration",
+      "expertise": "Jean-Paul Vulliéty has also been involved in more than 80 international and domestic commercial arbitration proceedings, as counsel or arbitrator (sole arbitrator, coarbitrator, or chairman), under all the main rules of international arbitration.<br><br>His expertise in corporate and commercial law matters and dispute resolution encompasses a wide range of sectors, including life sciences and biotechnology, pharmaceutical, luxury goods, transport (aviation and rail), energy (particularly oil & gas), commodities, construction and infrastructure projects and real estate transactions.<br><br>Over the years, Jean-Paul Vulliéty has held several academic positions, namely at the University of Geneva since 1998 where he is currently a full professor in charge of the chair of Business law of the Geneva University School of Economics and Management (GSEM). He contributed to the creation of the Geneva University Master of International Trading, of which he has been the academic director for more than ten years. Together with his university colleagues Prof. Marie-Noëlle Zen-Ruffinen and Prof. Gilbert Probst, he co-founded the Swiss Board Institute, which has become over the years, through its Journée du Conseil d’Administration, a leading platform in Switzerland for members of company boards.<br><br>Jean-Paul Vulliéty is the author of numerous scientific publications in the field of business law and business transactions. He is one of the regular contributors to the major commentaries of Swiss business and contract law. He is the drafter for the WTO/UNCTAD of several model agreements for business transactions."
+    }
+  ],
+  "education": [
+    {
+      "date": "1978-1986",
+      "content": "Law degree (licence en droit), Master degree in law, and predoctoral studies, University of Geneva"
+    },
+    {
+      "date": "1987",
+      "content": "Admission to the Geneva Bar"
+    },
+    {
+      "date": "1998",
+      "content": "University of Geneva, Doctor degree (PhD), summa cum laude, Geneva University"
+    }
+  ],
+  "experience": [
+    {
+      "date": "1987-1993",
+      "content": "Associate, Berger Recordon de Saugy (Geneva)"
+    },
+    {
+      "date": "1993-1998",
+      "content": "Partner, Berger Recordon de Saugy (Geneva)"
+    },
+    {
+      "date": "1998-2007",
+      "content": "Visiting Professor, Université Catholique de Louvain (Belgium)"
+    },
+    {
+      "date": "1998-2023",
+      "content": "Partner, Lalive (Geneva)"
+    },
+    {
+      "date": "Since 1998",
+      "content": "Full professor of business law, University of Geneva (law of obligations, contract law, international transactions, construction contracts)"
+    },
+    {
+      "date": "Since 2023",
+      "content": "Senior Counsel, Des Gouttes & Associés"
+    }
+  ],
+  "others": []
+}

@@ -38,7 +38,7 @@ const getTitle = (domain: ExpertiseDomain) => {
     domain.practiceArea &&
     props.practiceAreas.find(pa => pa.id === domain.practiceArea)
   if (foundPa) {
-    return `<a href="${foundPa.link}">${foundPa.title}</a>`
+    return `<a href="${foundPa.link}">${domain.title || foundPa.title}</a>`
   }
   return domain.title || domain.practiceArea || ''
 }
