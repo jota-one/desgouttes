@@ -3,6 +3,7 @@ bodyBg: true
 navBanner: practiceareas_RANDOM.jpg
 backOnClose: /en/practice-areas
 backToTop: true
+title: Insolvency and Restructuring
 ---
 
 ::anchored{on="h2" title="Insolvency and Restructuring"}

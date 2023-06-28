@@ -3,6 +3,7 @@ bodyBg: true
 navBanner: practiceareas_RANDOM.jpg
 backOnClose: /en/practice-areas
 backToTop: true
+title: Corporate and Contracts
 ---
 
 ::anchored{on="h2" title="Corporate and Contracts"}

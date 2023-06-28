@@ -1,6 +1,10 @@
 <template>
   <NuxtLink class="card" :href="person.link">
-    <img class="image" :src="`/imgs/people/${person.initials}.jpg`" />
+    <img
+      v-if="person.initials"
+      class="image"
+      :src="`/imgs/people/${person.initials}.jpg`"
+    />
     <div class="overlay">
       {{ person.name }}
     </div>

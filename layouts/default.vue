@@ -21,7 +21,7 @@
         @close="navigationOpened = false"
       />
       <img
-        v-if="page.navBanner"
+        v-if="page?.navBanner"
         :src="`/imgs/generic/${navBannerImage}`"
         width="160"
         height="160"
@@ -33,19 +33,19 @@
     </div>
     <div ref="wrapperEl" class="wrapper">
       <div class="banner">
-        <img v-if="page.banner" :src="`/imgs/hero/${page.banner}`" />
+        <img v-if="page?.banner" :src="`/imgs/hero/${page.banner}`" />
       </div>
       <main class="main">
-        <div :class="['body', { transparent: !page.bodyBg }]">
+        <div :class="['body', { transparent: !page?.bodyBg }]">
           <slot v-if="!page?.homepage" />
           <NuxtLink
-            v-if="page.backOnClose"
-            :href="page.backOnClose"
+            v-if="page?.backOnClose"
+            :href="page?.backOnClose"
             class="close"
           />
         </div>
-        <div v-if="!page.noFooter && !page?.homepage" class="footer">
-          <button v-if="page.backToTop" class="back-to-top" @click="scrollTop">
+        <div v-if="!page?.noFooter && !page?.homepage" class="footer">
+          <button v-if="page?.backToTop" class="back-to-top" @click="scrollTop">
             Back to top
           </button>
           <PageFooter />

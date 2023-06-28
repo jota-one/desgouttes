@@ -3,7 +3,7 @@
     <h2 class="title">Expertise</h2>
     <template v-for="(domain, index) in formattedDomains" :key="index">
       <h3 class="sub-title" v-html="domain.title"></h3>
-      <ContentRendererMarkdown v-if="domain.content" :value="domain.content" />
+      <ContentRendererMarkdown :value="domain.content" />
     </template>
   </div>
 </template>
@@ -38,13 +38,15 @@ const getTitle = (domain: ExpertiseDomain) => {
     domain.practiceArea &&
     props.practiceAreas.find(pa => pa.id === domain.practiceArea)
   if (foundPa) {
-    return `<a href="${foundPa.link}">${foundPa.title}</a>`
+    return `<a href="${foundPa.link}">${domain.title || foundPa.title}</a>`
   }
   return domain.title || domain.practiceArea || ''
 }
 
 const getContent = (domain: ExpertiseDomain) => {
-  return parseMarkdown(domain.expertise)
+  return domain.expertise
+    ? parseMarkdown(domain.expertise)
+    : Promise.resolve('')
 }
 
 const formatDomains = async () => {
@@ -52,7 +54,9 @@ const formatDomains = async () => {
   for (const domain of props.domains) {
     const title = getTitle(domain)
     const content = await getContent(domain)
-    formatted.push({ title, content })
+    if (content) {
+      formatted.push({ title, content })
+    }
   }
   return formatted
 }

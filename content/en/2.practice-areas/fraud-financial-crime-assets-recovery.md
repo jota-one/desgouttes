@@ -3,6 +3,7 @@ bodyBg: true
 navBanner: practiceareas_RANDOM.jpg
 backOnClose: /en/practice-areas
 backToTop: true
+title: Fraud, Financial Crime and Asset Recovery
 ---
 
 ::anchored{on="h2" title="Fraud, Financial Crime and Asset Recovery"}

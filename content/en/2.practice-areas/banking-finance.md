@@ -3,6 +3,7 @@ bodyBg: true
 navBanner: practiceareas_RANDOM.jpg
 backOnClose: /en/practice-areas
 backToTop: true
+title: Banking and Finance
 ---
 
 ::anchored{on="h2" title="Banking and Finance"}

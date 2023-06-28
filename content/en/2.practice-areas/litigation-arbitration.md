@@ -3,6 +3,7 @@ bodyBg: true
 navBanner: practiceareas_RANDOM.jpg
 backOnClose: /en/practice-areas
 backToTop: true
+title: Litigation and Arbitration
 ---
 
 ::anchored{on="h2" title="Litigation and Arbitration"}
