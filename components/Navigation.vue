@@ -29,7 +29,7 @@ const i18nNavigation = computed(() =>
   navigation.value
     .find((item: any) => item._path === '/en')
     .children.map((subItem: any) => {
-      subItem.active = page.value._path.includes(subItem._path)
+      subItem.active = page.value?._path.includes(subItem._path)
       return subItem
     }),
 )

@@ -48,5 +48,5 @@ We further provide expert assistance in relation to mass dismissal, including no
 ## Transactions
 We regularly advise on all implications of employment matters in connection with corporate transactions, i.e. due diligence on employment, social security and pension matters, analysis of their impact on purchase agreements, balancing of pension coverage levels, establishing new pension plans, etc.
 
-Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Nathalie Bessard](/en/team/nb)
+Main Contacts: [Arun Chandrasekharan](/en/team/ac)
 ::
