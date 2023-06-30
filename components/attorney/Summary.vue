@@ -38,6 +38,7 @@ const languageRefs: Record<string, string> = {
   pt: 'Portuguese',
   ar_eg: 'Arabic (Egyptian)',
   tr: 'Turkish',
+  no: 'Norwegian',
 }
 type Props = {
   activities: string[]

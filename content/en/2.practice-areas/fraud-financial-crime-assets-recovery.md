@@ -18,5 +18,5 @@ We work closely with banks and other financial institutions to assist them in se
 
 We are part of the International Fraud Group ([www.internationalfraudgroup.com](//www.internationalfraudgroup.com)), a global network of highly competent specialists equipped with everything t takes to trace, freeze, seize, secure and return assets.
 
-Main Contacts: [Carla Reyes](/en/team/cr), [Arun Chandrasekharan](/en/team/ac), [Robert Fiechter](/en/team/rf)
+Main Contacts: [Carla Reyes](/en/team/cr), [Arun Chandrasekharan](/en/team/ac)
 ::

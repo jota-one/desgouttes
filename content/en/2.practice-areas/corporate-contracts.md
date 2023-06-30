@@ -49,5 +49,5 @@ Drafting and negotiation of all types of commercial contracts, such as:
 - Regulated industries, such as banking and insurances services, life science, etc.
 - Commercial and contract related litigation and arbitration (disputes on sale, enterprise, distribution, agency, license agreements and actions relating to liability, the annulment of executive bodies’ decisions, special audit)
 
-Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Leila Hawa](/en/team/lh)
+Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Leila Hawa](/en/team/lh), [Jean-Paul Vulliéty](/en/team/jpv)
 ::

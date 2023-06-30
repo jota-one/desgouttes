@@ -5,7 +5,7 @@
   "role": "associate",
   "lastname": "Chandrasekharan",
   "firstname": "Arun",
-  "cvVersion": "v2023",
+  "cvVersion": "v2023b",
   "email": "arun.chandrasekharan@desgouttes.ch",
   "phone": "+41 22 704 30 50",
   "languages": [
@@ -36,11 +36,14 @@
     },
     {
       "practiceArea": "insolvency-restructuring",
-      "title": "Enforcement",
       "expertise": "Arun Chandrasekharan regularly ensures the enforcement of foreign and national decisions and clients' rights by means of civil seizure of assets, criminal proceedings on behalf of financially harmed clients or recognition proceedings. He is a member of the International Fraud Group."
     }
   ],
   "education": [
+    {
+      "date": "1995",
+      "content": "Mathematisch-Naturwissenschaftliches Gymnasium Rämibühl, Zurich, Matura"
+    },
     {
       "date": "1998",
       "content": "University of Geneva, licence en droit"
