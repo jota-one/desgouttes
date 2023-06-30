@@ -18,7 +18,7 @@ We provide advice in regulatory matters both in domestic and transborder transac
 - Rules of conduct (guaranteeing legal activity, Swiss Financial Market Supervisory Authority FINMA circulars and directives, Agreement on Due Diligence for Banks (CDB), Swiss Bankers Association (SBA) recommendations, etc.)
 - Procedures presented before Swiss Financial Market Supervisory Authority FINMA, particularly licenses for banks and their representative offices and branches, securities dealers and insurance companies, as well as authorizations for investment funds (including the distribution thereof)
 
-Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Robert Fiechter](/en/team/rf), [Carla Reyes](/en/team/cr)
+Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Carla Reyes](/en/team/cr)
 
 
 ## Financing
@@ -42,7 +42,7 @@ We negotiate and draft for our clients the required contractual documentation, w
 - Brokerage or commission contracts
 - General terms and conditions
 
-Main Contacts: [Robert Fiechter](/en/team/rf), [Leila Hawa](/en/team/lh)
+Main Contacts: [Leila Hawa](/en/team/lh)
 
 
 ## Banking Transactions
@@ -56,7 +56,7 @@ Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Leila Hawa](/en/team/lh)
 ## Investment Funds
 We advise Swiss and foreign investment funds on their structuring and registration with the Swiss Financial Market Supervisory Authority FINMA, and the ongoing regulatory notifications and authorization proceedings. We also provide advice on the authorizations with FINMA of fund asset managers, fund management companies, distributors and representatives of non-Swiss funds.
 
-Main Contacts: [Robert Fiechter](/en/team/rf), [Leila Hawa](/en/team/lh)
+Main Contacts: [Leila Hawa](/en/team/lh)
 
 
 ## Litigation and Arbitration
@@ -65,5 +65,5 @@ Banking and financial institutions are important actors of the Swiss economy. In
 - Litigation, investigations and enforcement proceedings of banks and other financial intermediaries before regulatory authorities and representation in civil and criminal proceedings
 - Representation of regulated institutions and their corporate bodies during preliminary investigations and administrative proceedings (regulatory enforcement) by FINMA, other supervisory bodies or self-regulation bodies. We are also very actively involved in carrying out critical internal investigations for our clients, frequently for presentation to Swiss and foreign supervisory authorities
 
-Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Carla Reyes](/en/team/cr), [Robert Fiechter](/en/team/rf)
+Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Carla Reyes](/en/team/cr)
 ::

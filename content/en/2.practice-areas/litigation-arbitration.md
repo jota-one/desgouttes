@@ -34,5 +34,5 @@ We are regularly involved in international arbitrations, either as counsel for a
 
 In every case, we establish a tailor-made team prepared to provide the highest quality of work, with the utmost commitment and focus at every level. Our multilingual team is able to communicate with clients and conduct cases in English, French, German, and Italian.
 
-Main contacts: [Arun Chandrasekharan](/en/team/ac), [Robert Fiechter](/en/team/rf)
+Main contacts: [Arun Chandrasekharan](/en/team/ac), [Jean-Paul Vulliéty](/en/team/jpv)
 ::

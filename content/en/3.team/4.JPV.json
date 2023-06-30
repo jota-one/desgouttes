@@ -48,7 +48,7 @@
     },
     {
       "date": "1998",
-      "content": "University of Geneva, Doctor degree (PhD), summa cum laude, Geneva University"
+      "content": "University of Geneva, Doctor degree (PhD), <em>summa cum laude</em>, Geneva University"
     }
   ],
   "experience": [
@@ -77,5 +77,34 @@
       "content": "Senior Counsel, Des Gouttes & Associés"
     }
   ],
-  "others": []
+  "others": [
+    {
+      "date": "2009-2020",
+      "content": "Vice-Chair and then President (since 2014) of the International Sales Commission of the Union Internationale des Avocats"
+    },
+    {
+      "date": "2008-2023",
+      "content": "Member and then President (since 2014) of the Civil law Commission of the Geneva Bar Association"
+    },
+    {
+      "date": "Since 2007",
+      "content": "Member of the Board and then President (since 2013) of the Arab- Swiss Chamber of Commerce"
+    },
+    {
+      "date": "Since 2007",
+      "content": "Co-Founder and Academic Director of the Geneva University Master’s Program in Commodity Trading"
+    },
+    {
+      "date": "Since 2007",
+      "content": "Member of the ICC Commission on Commercial Law and Practice (CLP)"
+    },
+    {
+      "date": "Since 2011",
+      "content": "Co-Founder and Board member of the Swiss Board Institute (SBI), Geneva"
+    },
+    {
+      "date": "Since 2014",
+      "content": "Member of the Institute of World’s Business law of the ICC, Paris"
+    }
+  ]
 }
