@@ -99,7 +99,7 @@ const { page } = useContent()
 
 const myPracticeAreas = computed(() =>
   page.value.expertiseDomains.reduce((acc, ed) => {
-    if (!ed.practiceArea) {
+    if (!ed.practiceArea || ed.hideFromPracticeAreas) {
       return acc
     }
     const { title: label, link } =
