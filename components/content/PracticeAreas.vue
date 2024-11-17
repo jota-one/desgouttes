@@ -1,5 +1,5 @@
 <template>
-  <div class="cards">
+  <div class="practice-areas">
     <PracticeAreaCard v-for="pa in practiceAreas" :key="pa.link" :pa="pa" />
   </div>
 </template>
@@ -28,7 +28,7 @@ const practiceAreas = computed(() =>
 <style lang="postcss" scoped>
 @import '/assets/styles/_mediaquery.pcss';
 
-.cards {
+.practice-areas {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr;

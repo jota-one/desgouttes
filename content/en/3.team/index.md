@@ -4,4 +4,4 @@ noFooter: true
 hideTitle: true
 ---
 # Our team
-::attorneys
+:attorneys
