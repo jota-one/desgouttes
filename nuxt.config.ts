@@ -17,6 +17,7 @@ export default defineNuxtConfig({
   },
 
   modules: ['@nuxt/content'],
+
   content: {
     documentDriven: true,
     markdown: {
@@ -37,4 +38,6 @@ export default defineNuxtConfig({
       'postcss-custom-media': {},
     },
   },
+
+  compatibilityDate: '2024-11-17',
 })

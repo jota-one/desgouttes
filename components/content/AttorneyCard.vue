@@ -1,5 +1,5 @@
 <template>
-  <NuxtLink class="card" :href="person.link">
+  <NuxtLink class="card" :to="person.link">
     <img
       v-if="person.initials"
       class="image"
