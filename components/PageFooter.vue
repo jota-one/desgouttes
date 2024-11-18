@@ -2,7 +2,7 @@
   <div class="page-footer">
     <div>
       Copyright © 2017-{{ year }} Des Gouttes & Associés -
-      <a class="link" href="/pdf/privacy-policy-01-09-23.pdf" target="_blank">
+      <a class="link" href="/pdf/privacy-policy-14-11-24.pdf" target="_blank">
         Privacy Policy
       </a>
     </div>

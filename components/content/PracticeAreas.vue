@@ -1,11 +1,11 @@
 <template>
-  <div class="cards">
+  <div class="practice-areas">
     <PracticeAreaCard v-for="pa in practiceAreas" :key="pa.link" :pa="pa" />
   </div>
 </template>
 
 <script setup lang="ts">
-const { data } = await useAsyncData('pa', () =>
+const { data } = await useAsyncData('practice-areas', () =>
   queryContent('/en/practice-areas/').only(['body', 'title', '_path']).find(),
 )
 
@@ -28,7 +28,7 @@ const practiceAreas = computed(() =>
 <style lang="postcss" scoped>
 @import '/assets/styles/_mediaquery.pcss';
 
-.cards {
+.practice-areas {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr;

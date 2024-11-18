@@ -1,0 +1,77 @@
+{
+  "initials": "SL",
+  "layout": "resume",
+  "type": "person",
+  "role": "attorney",
+  "lastname": "Lombardi",
+  "firstname": "Stéphanie",
+  "cvVersion": "v2024",
+  "email": "stephanie.lombardi@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "languages": [
+    "fr",
+    "en",
+    "sp",
+    "it",
+    "de"
+  ],
+  "activities": [
+    "Associate",
+    "Attorney at Law"
+  ],
+  "memberships": [
+    "Geneva Bar Association (OdA)",
+    "Swiss Bar Association (SAV)"
+  ],
+  "expertiseDomains": [
+    {
+      "practiceArea": "litigation-arbitration",
+      "expertise": "Stéphanie Lombardi advises and represents\nprivate and corporate clients in domestic and\ninternational litigation and arbitration, in civil and\ncommercial disputes.\n\nShe ensures the enforcement of foreign and\nnational decisions and arbitral awards, in particular\nby means of civil seizure of assets and recognition\nproceedings."
+    },
+    {
+      "practiceArea": "corporate-contracts",
+      "expertise": "Stéphanie Lombardi advises entrepreneurs,\ncompanies and private clients on the negotiation\nand drafting in a national and international scope\nof all types of commercial contracts, including\nmanufacturing, distribution, licensing, sponsoring,\njoint venture, franchise, non-disclosure, lease,\nservice, sale and purchase agreements.\n\nShe also assists clients with corporate law matters\nthat arise during the business life of their company."
+    },
+    {
+      "practiceArea": "employment-immigration",
+      "expertise": "Stéphanie Lombardi advises and represents Swiss\nand multinational clients in all matters relating to\nemployment law, including negotiation, drafting\nand review of employment contracts, termination\nagreements, bonus scheme, non-compete and\nnon-solicit provisions. She further advises clients\non their internal policies and assists them with the\npreparation and enforcement of individual and\ncollective dismissals.\n\nShe also regularly assists individuals in obtaining\nresidence and work permits and companies with\nthe transfer and secondment of employees."
+    }
+  ],
+  "education": [
+    {
+      "date": "2018",
+      "content": "University of Geneva, Bachelor of Law"
+    },
+    {
+      "date": "2019",
+      "content": "University of Geneva, Certificate in Transnational Law"
+    },
+    {
+      "date": "2020",
+      "content": "University of Geneva, Master of Law (Mobility, University of Zurich)"
+    },
+    {
+      "date": "2020",
+      "content": "University of Geneva, Certificate of Advanced Studies in Legal Professions"
+    },
+    {
+      "date": "2023",
+      "content": "Admission to the Geneva Bar"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2018-2019",
+      "content": "Trainee, Department of Private International Law, University of Geneva"
+    },
+    {
+      "date": "2021-2023",
+      "content": "Trainee Lawyer, Mentha Avocats, Geneva"
+    },
+    {
+      "date": "2023",
+      "content": "Associate, Des Gouttes & Associés"
+    }
+  ],
+  "others": []
+}
