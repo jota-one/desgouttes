@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-const { data } = await useAsyncData('pa', () =>
+const { data } = await useAsyncData('practice-areas', () =>
   queryContent('/en/practice-areas/').only(['body', 'title', '_path']).find(),
 )
 

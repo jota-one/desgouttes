@@ -9,7 +9,7 @@
   </div>
 </template>
 <script setup lang="ts">
-const { data } = await useAsyncData('pa', () =>
+const { data } = await useAsyncData('attorneys', () =>
   queryContent('/en/team/')
     .only(['title', 'initials', 'firstname', 'lastname', '_path'])
     .find(),
