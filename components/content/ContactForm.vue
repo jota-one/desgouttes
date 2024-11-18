@@ -109,7 +109,7 @@ const mailSent = ref(false)
 const sending = ref(false)
 const error = ref(false)
 
-const { data: attorneys } = await useAsyncData('pa', () =>
+const { data: attorneys } = await useAsyncData('attorneys-emails', () =>
   queryContent('/en/team/')
     .only(['title', 'initials', 'email', 'firstname', 'lastname'])
     .find(),
