@@ -54,7 +54,7 @@
         />
         <SimpleList
           v-if="myPracticeAreas.length"
-          title="Practice Areas"
+          title="Expertise"
           :items="myPracticeAreas"
         />
         <SimpleList
