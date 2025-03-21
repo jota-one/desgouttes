@@ -5,7 +5,7 @@
   "role": "associate",
   "lastname": "Hawa",
   "firstname": "Leila",
-  "cvVersion": "v4",
+  "cvVersion": "v2025",
   "email": "leila.hawa@desgouttes.ch",
   "phone": "+41 22 704 30 50",
   "languages": [
@@ -15,7 +15,8 @@
   ],
   "activities": [
     "Partner",
-    "Attorney at Law, LL.M."
+    "Attorney at Law, LL.M.",
+    "Independent Board Member"
   ],
   "memberships": [
     "Geneva Bar Association (OdA)",
@@ -33,8 +34,12 @@
       "expertise": "Leila Hawa advises on credit facility (including bonds and convertible facilities), asset securitization, and insolvency matters; she assists clients on debt and equity (re)financing and restructuring. Leila Hawa advises insurance companies and banks on regulatory matters, as well as on offering and listing prospectuses for the issuance of stocks and bonds. She also advises clients on the acquisition/sale of banks."
     },
     {
-      "practiceArea": "corporate-contracts",
-      "expertise": "Leila Hawa advises clients on corporate law matters (best practice, corporate governance, setting up of corporate entities and branches, equity structures, e.g., authorized and conditional capital, preferred shares, preferential voting shares).\nLeila Hawa advises on the negotiation and drafting of commercial contracts (umbrella and service level agreements, manufacturing, supply, distribution, cooperation, franchise, and licensing agreements)."
+      "practiceArea": "corporate",
+      "expertise": "Leila Hawa advises clients on corporate law matters (best practice, corporate governance, setting up of corporate entities and branches, equity structures, e.g., authorized and conditional capital, preferred shares, preferential voting shares)."
+    },
+    {
+      "practiceArea": "commercial-contracts",
+      "expertise": "Leila Hawa advises on the negotiation and drafting of commercial contracts (umbrella and service level agreements, manufacturing, supply, distribution, and licensing, as well as employment and mandate agreements) both in international and domestic matters."
     }
   ],
   "education": [
@@ -57,19 +62,28 @@
   ],
   "experience": [
     {
-      "date": "2001",
-      "content": "Research Assistant, University of Geneva, Geneva"
+      "title": "Law Firms",
+      "experience": [
+        {
+          "date": "2002-2009",
+          "content": "Senior Associate, Lenz & Staehelin, Geneva and Zurich"
+        },
+        {
+          "date": "2010",
+          "content": "Partner, Des Gouttes & Associés, Geneva"
+        }
+      ]
     },
     {
-      "date": "2002-2009",
-      "content": "Senior Associate, Lenz & Staehelin, Geneva and Zurich"
-    },
-    {
-      "date": "2010",
-      "content": "Joined Des Gouttes & Associés, Geneva"
+      "title": "Independent Board Memberships",
+      "experience": [
+        {
+          "date": "Since 2021",
+          "content": "Board member and member of the investment committee, La Collective de prévoyance - COPRÉ, Geneva"
+        }
+      ]
     }
   ],
-  "others": [],
   "id": "LH",
   "admin": {
     "password": "$2a$10$Sj3W2Wy3q2GhOWixOlKbKeZVjgM7/kK48MmC7GKI3OA/dmz6.dWEi",

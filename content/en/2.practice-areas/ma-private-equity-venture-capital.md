@@ -8,23 +8,33 @@ title: M&A, Private Equity and Venture Capital
 
 ::anchored{on="h2" title="M&A, Private Equity and Venture Capital"}
 
-Des Gouttes & Associés acts as lead counsel or special Swiss counsel in structuring complex cross-border and domestic M&A transactions. We advise large multinational companies, private equity and venture capital funds, family offices, directors, managers as well as individual entrepreneurs and investors in domestic and cross-border acquisitions, LBOs, MBOs, MBIs, mergers, corporate restructurings, divestitures, spin-offs, and joint ventures in all industry sectors (e.g., banking and financial services, telecom, IT, multimedia, education life science and healthcare, biotech, hotel, real estate, luxury goods, defense technologies).
+Innovative, dedicated, fast, and hands-on, we take a business-oriented approach to every transaction and act as transaction facilitators. Partnering closely with our clients, we deliver tailored, high-quality advice – where it matters most.
 
-We regularly advise our clients - at both company and investor levels (entrepreneurs, venture capital firms, equity funds, private investors) - during all phases of the investment cycle, beginning with raising financing for start-ups or growing companies, covering financing activities, late stage financing and eventually the exit strategies. We also advise on the setting up of employee stock option or purchase schemes.
+## M&A Transactions
+Our team serves as lead counsel or special Swiss counsel, structuring complex cross-border and domestic M&A transactions. We can take a lead role in your transaction, forming cross-practice groups to cover general corporate, governance, regulatory, finance, employment, and pension matters as needed. From strategy to execution, we manage the entire process seamlessly.
 
-We also advise clients on general domestic and international finance operations.
+We advise a diverse range of clients, including multinational corporations, private equity and venture capital firms, SMEs, family offices, directors, managers, entrepreneurs, and investors. Our expertise spans acquisitions, leveraged buyouts (LBOs), management buyouts (MBOs) and buy-ins (MBIs), mergers, corporate restructurings, divestitures, spin-offs, and joint ventures across all industries.
 
-We pride ourselves on offering a top-level, innovative, dedicated hands-on and business oriented service to design transaction structures that meet the needs of our clients.
+## Private Equity
+We provide comprehensive support to private equity investors across all industries in both domestic and complex cross-border transactions, navigating every aspect of private equity investing, including minority investments, management and leveraged buyouts, financing solutions, sales and exits. Our integrated team - comprising experts in corporate law, financing, employment and benefits, real estate, and post-M&A disputes - ensures that every private equity deal is structured for success, from entry to exit.
+
+## Venture Capital and Start-ups
+For start-ups and university spin-offs, efficiency is vital. Vision, expertise, enthusiasm – and tireless determination and perseverance, we combine our in-depth understanding and fine expertise to help tackle tough challenges encountered by new businesses. We work closely with founders to ensure that start-ups get it right from the start from protecting intellectual property, navigating through capital raises and convertible debt financing rounds, to stakeholder governance. Our team also designs employee benefits and incentive plans that attract and retain top talent. We guide entrepreneurs through every stage of the start-up lifecycle - from seed funding to growth financing, all the way to successful exits through trade sales or acquisitions.
 
 Our services include:
-
-- Mergers, spin-offs, changes of corporate form and other forms of corporate restructurings
-- Corporate sales and acquisitions (share and asset deals)
-- Private equity investments, including management and leveraged buy-outs, venture capital and exit transactions
-- Venture capital transactions
-- Joint ventures and partnerships agreements
+- Corporate sales and acquisitions (share and asset deals), including structuring and implementation of sales process, management of W&I insurance process
+- Mergers
+- Private equity, including minority investments, management and leveraged buy-outs, financing solutions, sales and exists
+- Venture capital, including incorporation of companies, equity structures, financing rounds, convertible debt financing, intellectual property rights, employee benefits and incentives
+- Carve-outs and spin-offs
+- Restructurings and recapitalizations
+- [Joint ventures and partnerships](/en/practice-areas/commercial-contracts)
 - [Estate planning advice for entrepreneurs and managers](/en/practice-areas/private-clients)
-- [Corporate and M&A-related litigation and arbitration](/en/practice-areas/litigation-arbitration)
+- [M&A-related litigation and arbitration](/en/practice-areas/litigation-arbitration)
+
+Related sectors:
+
+[Real Estate](/en/practice-areas/real-estate) | Consumer Goods and Luxury | [Banking and Financial Services](/en/practice-areas/banking-finance) | Technology, telecommunications and IT | Insurance | Life Sciences and Healthcare | Hospitality and Education
 
 Main Contacts: [Leila Hawa](/en/team/lh), [Arun Chandrasekharan](/en/team/ac)
 ::

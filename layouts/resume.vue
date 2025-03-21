@@ -46,11 +46,7 @@
           title="Education"
           :events="education"
         />
-        <Chronology
-          v-if="experience.length"
-          title="Professional Experience"
-          :events="experience"
-        />
+        <Career v-if="experience.length" :experience="experience" />
         <Chronology
           v-if="others.length"
           title="Other Activities"
@@ -78,6 +74,7 @@
 </template>
 
 <script setup lang="ts">
+import Career, { type Experience } from '~/components/attorney/Career.vue'
 import Chronology from '~/components/attorney/Chronology.vue'
 import Expertise from '~/components/attorney/Expertise.vue'
 import Extended from '~/components/attorney/Extended.vue'
@@ -109,12 +106,12 @@ const myPracticeAreas = computed(() =>
 )
 
 const memberships = computed(() =>
-  page.value.memberships.map(m => ({ label: m })),
+  (page.value.memberships || []).map(m => ({ label: m })),
 )
 
-const education = computed(() => [...page.value.education].reverse())
-const experience = computed(() => [...page.value.experience].reverse())
-const others = computed(() => [...page.value.others].reverse())
+const education = computed(() => page.value.education)
+const experience = computed<Experience>(() => page.value.experience)
+const others = computed(() => page.value.others || [])
 
 useHead({ title: `${page.value.firstname} ${page.value.lastname}` })
 </script>
