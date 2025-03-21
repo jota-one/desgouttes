@@ -4,6 +4,10 @@
     <template v-for="(domain, index) in formattedDomains" :key="index">
       <h3 class="sub-title" v-html="domain.title"></h3>
       <ContentRendererMarkdown :value="domain.content" />
+      <div v-if="domain.publications" class="disclaimer">
+        For a list of publications and conferences, see below under Extended
+        Profile
+      </div>
     </template>
   </div>
 </template>
@@ -21,10 +25,12 @@ interface ExpertiseDomain {
   practiceArea?: string
   title?: string
   expertise: string
+  publications?: boolean
 }
 interface FormattedDomain {
   title: string
   content: string
+  publications: boolean
 }
 type Props = {
   practiceAreas: PracticeArea[]
@@ -55,7 +61,7 @@ const formatDomains = async () => {
     const title = getTitle(domain)
     const content = await getContent(domain)
     if (content) {
-      formatted.push({ title, content })
+      formatted.push({ title, content, publications: domain.publications })
     }
   }
   return formatted
@@ -80,5 +86,10 @@ onMounted(async () => {
   @media (--resume-2-cols) {
     font-size: 24px;
   }
+}
+
+.disclaimer {
+  font-size: 16px;
+  font-style: italic;
 }
 </style>

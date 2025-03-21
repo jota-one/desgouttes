@@ -41,10 +41,10 @@
         class="expertise"
       />
       <div class="chronology">
-        <Chronology
+        <AttorneyEducation
           v-if="education.length"
-          title="Education"
-          :events="education"
+          :education="education"
+          :title="page.educationTitle"
         />
         <Career v-if="experience.length" :experience="experience" />
         <Chronology
