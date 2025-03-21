@@ -56,6 +56,14 @@ defineProps<Props>()
     &:nth-child(2n + 6) {
       border-color: rgb(var(--color-neutral));
     }
+
+    &:nth-child(2n + 10) {
+      border-color: rgb(var(--color-white));
+    }
+
+    &:nth-child(2n + 9) {
+      border-color: rgb(var(--color-neutral));
+    }
   }
 
   @media (--laptop) {

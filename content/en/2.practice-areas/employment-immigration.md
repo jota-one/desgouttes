@@ -3,50 +3,40 @@ bodyBg: true
 navBanner: practiceareas_RANDOM.jpg
 backOnClose: /en/practice-areas
 backToTop: true
-title: Employment and Immigration
+title: Employment, Immigration and Pension
 ---
 
-::anchored{on="h2" title="Employment and Immigration"}
+::anchored{on="h2" title="Employment, Immigration and Pension"}
 
-## Employment
-We have extensive experience in employment matters, in particular in the negotiation and drafting of employment agreements, bonus and incentive schemes, termination (individual or mass) agreements, intellectual property ownership, non-compete and non-solicitation clauses, data protection and internal policies. We also conduct due diligence on companies across all industries in transaction related matters, including compliance to employment law, social security, health and security requirements.
+We offer solutions that fuel business growth, spark innovation, and set our clients up for long-term success.
 
-To attract and retain top talents, an increasing number of companies offer incentive plans of different nature to their employees (share purchase or share option plans with various vesting schedules, bonus retainers, etc.). We advise our clients on the structuring and setting up of such plans, including on the social security and tax aspects thereof.
+Whether it's negotiating and drafting employment agreements, managing individual or mass terminations, safeguarding intellectual property, enforcing non-compete and non-solicitation clauses, or ensuring compliance with data protection laws and internal policies, we provide strategic, solutions-driven counsel tailored to your needs, backed by deep expertise. In transactions, we conduct thorough due diligence across all industries, assessing compliance with employment law, pension fund obligations, social security requirements, and workplace health and safety standards - helping businesses mitigate risk and navigate complex transitions with confidence.
+
+To attract and retain top talents, we guide our clients to design and implement compelling incentive plans, including share purchase programs, stock options with tailored vesting schedules, and bonus retention schemes. Our team ensures these plans are both legally sound and strategically optimized - maximizing their impact while maintaining compliance with tax and social security regulations. We secure work and residency permits and assist foreign residents in the negotiations of lump-sum tax regimes in Switzerland.
+
+We advise Swiss and internationally operating companies on social security obligations and pensions.
+
+Our partners and counsels sit on the boards of major pension funds and listed insurance companies.
 
 Our services include:
+- Employment agreements, including shareholding aspects, as well as related contractual arrangements (e.g., mandate agreements, consulting agreements, and "body lending")
+- Company policies and guidelines, including employee manuals, codes of conduct, data protection policies, and anti-discrimination regulations
+- Executive compensation and policies, including short- and long-term incentive schemes and plans, as well as related tax and social security considerations, disclosure obligations and compensation reports for listed companies, and "say-on-pay" legislation
+- Employee secondments and cross-border assignments
+- Investigations (e.g. discrimination, harassement, etc.)
+- Work and residency permits, as well as negotiation of lump-sum tax regimes in Switzerland
+- Social security matters, including insolvency and unemployment compensation
+- Pensions
+- Cross-border employee transfers
+- Mass dismissals: managing large-scale redundancies, including regulatory notifications, social plan negotiations, and liability waivers
+- [Employment issues linked to M&A, including due diligence](/en/practice-areas/ma-private-equity-venture-capital)
+- [Employment disputes and negotiations](/en/practice-areas/litigation-arbitration)
 
-- Drafting and negotiating employment agreements, including with shareholding aspects, as well as similar contractual relationships (e.g., mandate agreements, consulting agreement, so-called "body lending")
-- Drafting internal company regulations and guidelines (e.g., employee manuals, codes of conduct, data protection, anti-discrimination regulations)
-- Drafting bonus and incentive schemes (employee participation schemes – stock option or purchase plans, management remuneration systems, etc.), including any tax and social-insurance law matters related thereto
-- Advising on maximum compensation and disclosure obligations for listed companies and "say-on-pay" legislation
-- Filing applications for work and residency permits for foreigners from EU and non-EU countries
-- Advising on employee secondments
-- Negotiation between employers and employees in all employment-law related matters, including restructuring measures, outsourcing, mass redundancies, termination agreements, severance payments
-- Termination or amendment of employment relationships
+Main Contacts:
 
-## Immigration
-We advise our clients, ranging from large multinationals to senior executives, on various immigration issues, such as:
+Employment and Immigration: [Arun Chandrasekharan](/en/team/ac)
 
-- Obtaining work permits for all levels of employees, whether EU or non-EU nationals
-- Obtaining residency permits for foreigners
-- Handling issues relating to mergers and acquisitions, employee relocation or intra-group transfers
+Executive compensation: [Marie-Noëlle Zen-Ruffinen](/en/team/mnz)
 
-## Social Security and Pensions
-We advise our clients on all aspects of insurance, as well as social security law and pension matters:
-
-- Advice on illness, accident, retirement, survivors' and invalidity insurances
-- Advice to Swiss and internationally operating companies on social security compliance and social security implications of employee remuneration
-- Advice to foreign employees on the social security implications of working in Switzerland
-- Representation of clients in dealings with authorities and court proceedings
-
-## Dispute Resolution
-We have thorough experience in dispute resolution, whether in front of ordinary labour courts or through mediation, to both employers and employees in managerial positions, in all industry sectors with a particular focus on the banking industry.
-
-We further provide expert assistance in relation to mass dismissal, including notifying the competent authorities, negotiating social plans and obtaining releases of liability.
-
-
-## Transactions
-We regularly advise on all implications of employment matters in connection with corporate transactions, i.e. due diligence on employment, social security and pension matters, analysis of their impact on purchase agreements, balancing of pension coverage levels, establishing new pension plans, etc.
-
-Main Contacts: [Arun Chandrasekharan](/en/team/ac)
+Pension: [Leila Hawa](/en/team/lh)
 ::

@@ -21,30 +21,31 @@
     "Vice-Chair of the Swiss Board Institute",
     "Board Member"
   ],
-  "memberships": [
-    "Member of the Board of Directors of Ina Invest AG (and Chair of the Nomination and Compensation Committee and member of the Investment Committee)",
-    "Member of the Board of Foundation FER Stiftung (Swiss Gaap FER)",
-    "Member of the Board of Directors of Banco Santander International (Vice- Chair since 2021, and member of the Audit and Risk Committee and member of the Compensation Committee)",
-    "Member of the Board of Directors of the Baloise Group (and member of the Strategy and Governance Committee and Vice-Chair of the Audit committee)"
-  ],
   "expertiseDomains": [
     {
+      "practiceArea": "corporate",
       "title": "Corporate Governance",
-      "expertise": "Marie-Noëlle Zen-Ruffinen is a recognized expert in corporate governance. She regularly advises public, private and family-owned companies in the review or the setting up of their governance. She advises on strategic and legal matters related to board structure and operations, compliance, shareholders' and key stakeholders' relations, executive compensation and remuneration policy. She regularly conducts personalized governance training sessions and assists boards of directors in their evaluation process as an external facilitator. Marie-Noëlle Zen-Ruffinen serves on the board of directors of several listed and privately held companies. She co-founded the Swiss Board Institute and is the author | co-author of numerous publications, including the reference book Le Conseil d'administration. She is also a member of various panels of experts and a frequent speaker on topics related to corporate governance."
+      "expertise": "Marie-Noëlle Zen-Ruffinen is a recognized expert in corporate governance. She regularly advises public, private and family-owned companies in the review or the setting up of their governance. She advises on strategic and legal matters related to board structure and operations, compliance, shareholders' and key stakeholders' relations, executive compensation and remuneration policy. She regularly conducts personalized governance training sessions and assists boards of directors in their evaluation process as an external facilitator. Marie-Noëlle Zen-Ruffinen serves on the board of directors of several listed and privately held companies. She co-founded the Swiss Board Institute and is the author | co-author of numerous publications, including the reference book Le Conseil d'administration. She is also a member of various panels of experts and a frequent speaker on topics related to corporate governance.",
+      "publications": true
     },
     {
+      "practiceArea": "private-clients",
       "title": "Legacy, Succession planning, organization of family wealth transfers",
-      "expertise": "Marie-Noëlle Zen-Ruffinen advises individuals and families on shaping a meaningful legacy and a vision for sustainable generational impact. She has extensive expertise in managing comprehensive successions' planning (both domestic and cross-border) and in handling all asset types (including real estate, financial holdings, art collections and family businesses). She acts as a trusted executor to ensure that the estate is transferred according to the deceased's wishes in a smooth and hassle-free manner for the heirs. She further advises on family governance frameworks to ensure clarity, operational efficiency and alignment of interests across generations."
+      "expertise": "Marie-Noëlle Zen-Ruffinen advises individuals and families on shaping a meaningful legacy and a vision for sustainable generational impact. She has extensive expertise in managing comprehensive successions' planning (both domestic and cross-border) and in handling all asset types (including real estate, financial holdings, art collections and family businesses). She acts as a trusted executor to ensure that the estate is transferred according to the deceased's wishes in a smooth and hassle-free manner for the heirs. She further advises on family governance frameworks to ensure clarity, operational efficiency and alignment of interests across generations.",
+      "publications": true
     },
     {
-      "title": "Real Estate",
-      "expertise": "Marie-Noëlle Zen-Ruffinen advises clients on property transactions and provides strategic and legal counsel on real estate structuring and contract negotiation. She has special expertise in Lex Koller regulations, assisting foreign investors in navigating restrictions on property acquisitions in Switzerland."
+      "practiceArea": "real-estate",
+      "expertise": "Marie-Noëlle Zen-Ruffinen advises clients on property transactions and provides strategic and legal counsel on real estate structuring and contract negotiation. She has special expertise in Lex Koller regulations, assisting foreign investors in navigating restrictions on property acquisitions in Switzerland.",
+      "publications": true
     },
     {
-      "title": "Commercial contracts",
-      "expertise": "Marie-Noëlle Zen-Ruffinen advises on the negotiation and drafting of commercial contracts and she regularly provides legal opinions on early termination of commercial contracts (e.g., distribution, license). Her PhD thesis is considered a key reference on the subject."
+      "practiceArea": "commercial-contracts",
+      "expertise": "Marie-Noëlle Zen-Ruffinen advises on the negotiation and drafting of commercial contracts and she regularly provides legal opinions on early termination of commercial contracts (e.g., distribution, license). Her PhD thesis is considered a key reference on the subject.",
+      "publications": true
     }
   ],
+  "educationTitle": "Education | Executive education",
   "education": [
     {
       "date": "1999",
@@ -81,38 +82,79 @@
   ],
   "experience": [
     {
-      "date": "2000-2002",
-      "content": "Lenz & Staehelin, trainee lawyer, Geneva"
+      "title": "Law firms",
+      "experience": [
+        {
+          "date": "2000-2002",
+          "content": "Lenz & Staehelin, trainee lawyer, Geneva"
+        },
+        {
+          "date": "2008-2025",
+          "content": "Partner, then Of Counsel (from 2013), Niederer Kraft Frey from 2023, Tavernier Tschanz until 2022, Geneva"
+        },
+        {
+          "date": "2025",
+          "content": "Des Gouttes & Associés, Of Counsel, Geneva"
+        }
+      ]
     },
     {
-      "date": "Since 2009",
-      "content": "Part-time Professor (Professeur titulaire), University of Geneva, School of Economics and Management"
+      "title": "University of Geneva, School of Economics and Management",
+      "experience": [
+        {
+          "date": "2009",
+          "content": "Part-time Professor (Professeur titulaire)"
+        }
+      ]
     },
     {
-      "date": "Since 2011",
-      "content": "Co-founder (2011), Chair (2014-2021) and Vice-Chair (since 2022) - Swiss Board Institute"
+      "title": "Swiss Board Institute",
+      "experience": [
+        {
+          "date": "2011",
+          "content": "Co-founder (2011), Chair (2014-2021) and Vice-Chair (since 2022), leading foundation in Suisse Romande whose mission is to promote knowledge, research, education and experience sharing in the field of boards of directors and governance"
+        }
+      ]
     },
     {
-      "date": "2008-2025",
-      "content": "Partner, then Of Counsel (from 2013), Niederer Kraft Frey from 2023, Tavernier Tschanz until 2022, Geneva"
+      "title": "Independent Board Memberships",
+      "experience": [
+        {
+          "date": "2008-2016",
+          "content": "Member of the Board of a Family\nFoundation (holding an important art\ncollection)"
+        },
+        {
+          "date": "2016",
+          "content": "Member of the Board of Directors of the Baloise Group (and member of the Strategy and Governance Committee and Vice-Chair of the Audit committee)"
+        },{
+          "date": "2018",
+          "content": "Member of the Board of Directors of Banco Santander International (Vice- Chair since 2021, and member of the Audit and Risk Committee and member of the Compensation Committee)"
+        },
+        {
+          "date": "2020-2025",
+          "content": "Member of the Board of Directors of Ina Invest AG (and Chair of the Nomination and Compensation Committee and member of the Investment Committee)"
+        },{
+          "date": "2023",
+          "content": "Member of the Board of Foundation FER Stiftung (Swiss Gaap FER)"
+        }
+      ]
     },
     {
-      "date": "Since 2025",
-      "content": "Des Gouttes & Associés, Of Counsel, Geneva"
-    }
-  ],
-  "others": [
-    {
-      "date": "2019-2023",
-      "content": "Member of the Jury of the Women' s Board Award, Switzerland"
-    },
-    {
-      "date": "Since 2020",
-      "content": "Member of the Panel of Experts of SWIPRA, Zürich"
-    },
-    {
-      "date": "Since 2015",
-      "content": "Member of the Board of Governors of the Swiss Institute of Directors, St. Gallen (representative for Switzerland of the Global Network of Directors Institutes and of the Confédération européenne des associations d'administrateurs)"
+      "title": "Other activities",
+      "experience": [
+        {
+          "date": "2019-2023",
+          "content": "Member of the Jury of the Women' s Board Award, Switzerland"
+        },
+        {
+          "date": "2020",
+          "content": "Member of the Panel of Experts of SWIPRA, Zürich"
+        },
+        {
+          "date": "2015",
+          "content": "Member of the Board of Governors of the Swiss Institute of Directors, St. Gallen (representative for Switzerland of the Global Network of Directors Institutes and of the Confédération européenne des associations d'administrateurs)"
+        }
+      ]
     }
   ]
 }

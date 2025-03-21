@@ -1,8 +1,12 @@
 <template>
   <div>
-    <h2 class="title">{{ title }}</h2>
-    <dl class="list">
-      <template v-for="({ date, content }, index) in events" :key="index">
+    <component
+      :is="subSection ? 'h3' : 'h2'"
+      :class="{ title: !subSection, subtitle: subSection }"
+      >{{ title }}</component
+    >
+    <dl v-if="events.length > 0" class="list">
+      <template v-for="({ date, content }, index) in sortedEvents" :key="index">
         <dt class="list-title">{{ date }}</dt>
         <dd class="list-detail" v-html="content" />
       </template>
@@ -18,10 +22,13 @@ interface Event {
 
 type Props = {
   title: string
+  subSection?: boolean
   events: Event[]
 }
 
-defineProps<Props>()
+const props = defineProps<Props>()
+
+const sortedEvents = computed(() => [...props.events].reverse())
 </script>
 
 <style lang="postcss" scoped>
@@ -31,6 +38,12 @@ defineProps<Props>()
   margin: 0;
   padding-top: var(--size-base-5);
   font-size: 30px;
+}
+
+.subtitle {
+  margin: 0;
+  padding-top: var(--size-base-5);
+  font-size: 24px;
 }
 
 .list {
