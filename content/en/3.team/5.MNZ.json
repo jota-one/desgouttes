@@ -1,0 +1,115 @@
+{
+  "initials": "MNZ",
+  "layout": "resume",
+  "type": "person",
+  "role": "attorney",
+  "lastname": "Zen-Ruffinen",
+  "firstname": "Marie-Noëlle",
+  "email": "marie-noelle.zen-ruffinen@desgouttes.ch",
+  "phone": "+41 22 704 30 50",
+  "cvVersion": "v2025",
+  "languages": [
+    "fr",
+    "en",
+    "it",
+    "de"
+  ],
+  "activities": [
+    "Of Counsel",
+    "Attorney at Law"
+  ],
+  "memberships": [
+    "Member of the Board of Directors of Ina Invest AG (and Chair of the Nomination and Compensation Committee and member of the Investment Committee)",
+    "Member of the Board of Foundation FER Stiftung (Swiss Gaap FER)",
+    "Member of the Board of Directors of Banco Santander International (Vice- Chair since 2021, and member of the Audit and Risk Committee and member of the Compensation Committee)",
+    "Member of the Board of Directors of the Baloise Group (and member of the Strategy and Governance Committee and Vice-Chair of the Audit committee)"
+  ],
+  "expertiseDomains": [
+    {
+      "title": "Corporate Governance",
+      "expertise": "Marie-Noëlle Zen-Ruffinen is a recognized expert in corporate governance. She regularly advises public, private and family-owned companies in the review or the setting up of their governance. She advises on strategic and legal matters related to board structure and operations, compliance, shareholders' and key stakeholders' relations, executive compensation and remuneration policy. She regularly conducts personalized governance training sessions and assists boards of directors in their evaluation process as an external facilitator. Marie-Noëlle Zen-Ruffinen serves on the board of directors of several listed and privately held companies. She co-founded the Swiss Board Institute and is the author | co-author of numerous publications, including the reference book Le Conseil d'administration. She is also a member of various panels of experts and a frequent speaker on topics related to corporate governance."
+    },
+    {
+      "title": "Legacy, Succession planning, organization of family wealth transfers",
+      "expertise": "Marie-Noëlle Zen-Ruffinen advises individuals and families on shaping a meaningful legacy and a vision for sustainable generational impact. She has extensive expertise in managing comprehensive successions' planning (both domestic and cross-border) and in handling all asset types (including real estate, financial holdings, art collections and family businesses). She acts as a trusted executor to ensure that the estate is transferred according to the deceased's wishes in a smooth and hassle-free manner for the heirs. She further advises on family governance frameworks to ensure clarity, operational efficiency and alignment of interests across generations."
+    },
+    {
+      "title": "Real Estate",
+      "expertise": "Marie-Noëlle Zen-Ruffinen advises clients on property transactions and provides strategic and legal counsel on real estate structuring and contract negotiation. She has special expertise in Lex Koller regulations, assisting foreign investors in navigating restrictions on property acquisitions in Switzerland."
+    },
+    {
+      "title": "Commercial contracts",
+      "expertise": "Marie-Noëlle Zen-Ruffinen advises on the negotiation and drafting of commercial contracts and she regularly provides legal opinions on early termination of commercial contracts (e.g., distribution, license). Her PhD thesis is considered a key reference on the subject."
+    }
+  ],
+  "education": [
+    {
+      "date": "1999",
+      "content": "Master of Arts (lic. phil.), Philosophy (Ethics), University of Fribourg, summa cum laude"
+    },
+    {
+      "date": "2000",
+      "content": "Master of Law (lic. iur.), University of Fribourg, summa cum laude"
+    },
+    {
+      "date": "2002",
+      "content": "Admission to the Geneva Bar"
+    },
+    {
+      "date": "2003-2004",
+      "content": "Max-Planck Institute of Hamburg, Swiss National Science Foundation Research Scholar"
+    },
+    {
+      "date": "2007",
+      "content": "PhD in Law (Dr. iur.), University of Fribourg, summa cum laude"
+    },
+    {
+      "date": "2008",
+      "content": "Swiss Advanced Certificate in Trust Management, Geneva"
+    },
+    {
+      "date": "2016",
+      "content": "Harvard Business School, Finance for Senior Executives"
+    },
+    {
+      "date": "2024",
+      "content": "Oxford Saïd Business School – ESG – Leading Sustainable Corporations Programme"
+    }
+  ],
+  "experience": [
+    {
+      "date": "2000-2002",
+      "content": "Lenz & Staehelin, trainee lawyer, Geneva"
+    },
+    {
+      "date": "Since 2009",
+      "content": "Part-time Professor (Professeur titulaire), University of Geneva, School of Economics and Management"
+    },
+    {
+      "date": "Since 2011",
+      "content": "Co-founder (2011), Chair (2014-2021) and Vice-Chair (since 2022) - Swiss Board Institute"
+    },
+    {
+      "date": "2008-2025",
+      "content": "Partner, then Of Counsel (from 2013), Niederer Kraft Frey from 2023, Tavernier Tschanz until 2022, Geneva"
+    },
+    {
+      "date": "Since 2025",
+      "content": "Des Gouttes & Associés, Of Counsel, Geneva"
+    }
+  ],
+  "others": [
+    {
+      "date": "2019-2023",
+      "content": "Member of the Jury of the Women' s Board Award, Switzerland"
+    },
+    {
+      "date": "Since 2020",
+      "content": "Member of the Panel of Experts of SWIPRA, Zürich"
+    },
+    {
+      "date": "Since 2015",
+      "content": "Member of the Board of Governors of the Swiss Institute of Directors, St. Gallen (representative for Switzerland of the Global Network of Directors Institutes and of the Confédération européenne des associations d'administrateurs)"
+    }
+  ]
+}
