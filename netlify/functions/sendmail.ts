@@ -1,20 +1,34 @@
-import { Handler, HandlerContext, HandlerEvent } from '@netlify/functions'
-import sgMail from '@sendgrid/mail'
+import type { Handler, HandlerContext, HandlerEvent } from '@netlify/functions';
+import { TransactionalEmailsApi, TransactionalEmailsApiApiKeys } from '@getbrevo/brevo';
 
 const handler: Handler = async (
   event: HandlerEvent,
   context: HandlerContext,
 ) => {
-  sgMail.setApiKey(process.env.SENDGRID_API_KEY)
+  const transactionalEmailsApi = new TransactionalEmailsApi();
+  transactionalEmailsApi.setApiKey(TransactionalEmailsApiApiKeys.apiKey, process.env.SENDGRID_API_KEY || '');
+
+  async function sendTransactionalEmail(htmlContent: string, sender: { email: string }, to: { email: string }[]) {
+    try {
+      const result = await transactionalEmailsApi.sendTransacEmail({
+        to,
+        subject: 'Email from the Website www.desgouttes.ch',
+        htmlContent,
+        sender,
+      });
+      console.log('Email sent! Message ID:', result.body.messageId);
+    } catch (error) {
+      console.error('Failed to send email:', error);
+    }
+  }
+
   const defaultRecipient = process.env.DEFAULT_RECIPIENT
-  const defaultSender = process.env.DEFAULT_SENDER
+  const defaultSender = process.env.DEFAULT_SENDER || ''
   const debugRecipient = process.env.TEST_EMAIL
-  const body = JSON.parse(event.body)
-  const msg = {
-    to: debugRecipient || body.dest || defaultRecipient,
-    from: defaultSender,
-    subject: 'Email from the Website www.desgouttes.ch',
-    html: `<div>Hello,</div>
+  const body = JSON.parse(event.body || '{}')
+  const sender = { email: defaultSender }
+  const recipient = [{ email: debugRecipient || body.dest || defaultRecipient }];
+  const htmlContent = `<div>Hello,</div>
 <div>&nbsp;</div>
 <div>This is a message sent from desgouttes.ch website contact form:</div>
 <div>&nbsp;</div>
@@ -34,9 +48,9 @@ const handler: Handler = async (
 <div>Best regards,</div>
 
 <div>Des Gouttes Website</div>
-`,
-  }
-  const data = await sgMail.send(msg)
+`
+
+  await sendTransactionalEmail(htmlContent, sender, recipient)
 
   return {
     statusCode: 200,
