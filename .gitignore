@@ -11,3 +11,9 @@ dist
 
 # Local Netlify folder
 .netlify
+
+# Source provided by the customer
+originals
+
+# Generated reports
+reports
