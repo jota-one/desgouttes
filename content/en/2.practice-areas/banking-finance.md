@@ -8,7 +8,9 @@ title: Banking and Finance
 
 ::anchored{on="h2" title="Banking and Finance"}
 
+:::sub-heading
 With decades of experience servicing first class Swiss and non-Swiss banking banks and other financial institutions, as counsels and as board members of banks and members of the Swiss Bankers' Associations' code of conduct supervisory commission, we are recognized for our expertise and the quality of our services in the banking and finance industry. From insightful guidance on key regulatory and transactional matters to strong assistance on contentious matters, we are experts in all matters of banking and finance.
+:::
 
 
 ## Regulatory
