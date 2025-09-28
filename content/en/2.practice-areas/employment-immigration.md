@@ -8,7 +8,9 @@ title: Employment, Immigration and Pension
 
 ::anchored{on="h2" title="Employment, Immigration and Pension"}
 
+:::sub-heading
 We offer solutions that fuel business growth, spark innovation, and set our clients up for long-term success.
+:::
 
 Whether it's negotiating and drafting employment agreements, managing individual or mass terminations, safeguarding intellectual property, enforcing non-compete and non-solicitation clauses, or ensuring compliance with data protection laws and internal policies, we provide strategic, solutions-driven counsel tailored to your needs, backed by deep expertise. In transactions, we conduct thorough due diligence across all industries, assessing compliance with employment law, pension fund obligations, social security requirements, and workplace health and safety standards - helping businesses mitigate risk and navigate complex transitions with confidence.
 

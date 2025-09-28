@@ -8,27 +8,28 @@ title: Corporate
 
 ::anchored{on="h2" title="Corporate"}
 
+:::sub-heading
 We put our clients' interests first, delivering high-quality advice when and where it matters most.
+:::
 
 
 ## General Corporate
-We assist large corporations and private equity firms and work equally closely with small- and mid-size businesses at every stage of their corporate journey. We also advise start-ups and university spin-offs, guiding them from early-stage activities through to successful trade sales. Our expertise spans both domestic and cross-border matters.
+We assist large corporations and private equity firms and work equally closely with small- and mid-size businesses at every stage of their corporate journey. We also advise start-ups and university spin-offs, guiding them from early-stage activities through successful trade sales. Our expertise spans both domestic and cross-border matters.
 
 In addition, our partners and counsels serve on the boards of various Swiss companies, giving them global comprehension of the corporate challenges and strategic decision-making.
 
 Our corporate services cover a full spectrum of corporate matters, including:
-- General corporate advisory: company incorporation, formation of subsidiaries and branches, corporate governance, corporate responsibility, compliance, and risk management
-- Equity structuring and investment: (re)structuring of equity, drafting and negotiating shareholders' and [investment agreements](/en/practice-areas/commercial-contracts), capital increases and reduction, and [stock option and purchase plans](/en/practice-areas/employment-immigration)
-- Corporate finance: intercompany financing, refinancing, and structuring complex group organizations
-- Succession planning and exit strategies, including trade and asset sales, mergers, and [acquisitions](/en/practice-areas/ma-private-equity-venture-capital)
+- General corporate advisory: company incorporation, capital increases, corporate responsibility, compliance, and risk management
+- Equity structuring and investment: complex equity structuring and financing, shareholders' and [investment agreements](/en/practice-areas/commercial-contracts), as well as [stock option and purchase plans](/en/practice-areas/employment-immigration)
+- [Debt (re-)structuring](/en/practice-areas/banking-finance): intercompany financing, refinancing, and structuring complex group organizations
+- Succession planning and exit strategies, including [trade and asset sales, mergers and acquisitions](/en/practice-areas/ma-private-equity-venture-capital)
 - Corporate and regulatory compliance, including internal investigations
 - [Business recovery and corporate reorganizations](/en/practice-areas/employment-immigration): advising on restructuring strategies to ensure long-term sustainability
 - Advice on shareholders' rights, including guidance on agenda submissions, contesting general meetings' resolutions, and special audit matters
-- Corporate housekeeping, including management of annual general meetings and board meetings, as well as board secretary services
 - Associations and foundations: legal structuring and governance support
 - [Corporate litigation and arbitration](/en/practice-areas/litigation-arbitration), including representation in shareholders' disputes and corporate related conflicts
 
-Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Leila Hawa](/en/team/lh), [Marie-Noëlle Zen-Ruffinen](/en/team/mnz)
+Main Contacts: [Leila Hawa](/en/team/lh), [Arun Chandrasekharan](/en/team/ac), [Marie-Noëlle Zen-Ruffinen](/en/team/mnz)
 
 ## Corporate Governance
 

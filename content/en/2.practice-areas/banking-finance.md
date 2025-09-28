@@ -28,9 +28,9 @@ Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Carla Reyes](/en/team/cr)
 
 
 ## Commercial Banking and Finance
-We advise clients on the structuring, negotiation and implementation of financing arrangements. We handle a wide variety of transactions from corporate lending and structured finance transactions, including syndicated lending, leveraged acquisition and buy-out finance, structured finance, projects and infrastructure finance, real estate finance, asset-based finance, recapitalizations, and commercial and industrial finance. We provide strategic guidance on selecting, structuring, and executing tailored financing solutions - whether debt, equity, or a combination of both - to align with your business goals and maximize financial efficiency. Our expertise includes:
+We advise clients on the structuring, negotiation and implementation of financing arrangements. We handle a wide variety of transactions on corporate lending transactions, including syndicated lending, leveraged acquisition and buy-out finance, projects and infrastructure finance, real estate finance, asset-based finance, recapitalizations, and commercial and industrial finance. We provide strategic guidance on selecting, structuring, and executing tailored financing solutions - whether debt, equity, or a combination of both - to align with your business goals and maximize financial efficiency. Our expertise includes:
 - Secured and unsecured commercial lending transactions, including bilateral and syndicated lending transactions
-- Leveraged and investment grade acquisition finance in LBOs (leveraged credit facilities, high-yield bonds, and/or mezzanine financing)
+- Leveraged and investment grade acquisition finance in LBOs
 - Financial restructurings
 - Project and infrastructure finance
 - Trade finance
@@ -39,7 +39,7 @@ Related sectors:
 
 Construction and Infrastructure | Financial Services | Insurance | Private Equity | Venture Capital and Start-ups
 
-Main Contacts: [Leila Hawa](/en/team/lh)
+Main Contact: [Leila Hawa](/en/team/lh)
 
 
 ## Private Banking

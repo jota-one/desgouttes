@@ -8,7 +8,9 @@ title: Private Clients
 
 ::anchored{on="h2" title="Private Clients"}
 
+:::sub-heading
 Expert advice today. Lasting impact for tomorrow.
+:::
 
 ## Estate Planning | Wealth Structuring
 At the heart of our Private Clients practice is a commitment to fostering long-lasting relationships with high-net-worth individuals and families we advise. We deliver expert guidance and bespoke solutions across all aspects of global estate planning and wealth structuring. We simplify complexity, ensure compliance, and deliver long-term value, safeguarding your legacy for future generations. In addition, we handle dispute resolution with efficiency and sensitivity, ensuring a smooth and thoughtful process.

@@ -8,7 +8,9 @@ title: Real Estate
 
 ::anchored{on="h2" title="Real Estate"}
 
+:::sub-heading
 Residential, Commercial, or Industrial. Whether it's buildings, land, or both, our experienced real estate team handles every aspect of the property market.
+:::
 
 
 We assist clients throughout the entire property lifecycle, from acquisition and financing to development, leasing, and sale and leaseback. We offer strategic guidance on real estate transactions, ensuring legal security, efficient structuring, and compliance with local regulatory frameworks.
@@ -21,7 +23,7 @@ Our team provides advice and support to both private clients and commercial user
 
 Our services include:
 - [Transactional real estate](/en/practice-areas/ma-private-equity-venture-capital), such as direct or indirect single asset or portfolio acquisitions or sales, sale-and-lease-back transactions, share deals and hospitality deals, commercial or residential real estate securitization
-- Real estate financing and refinancing and mortgages
+- [Real estate financing and refinancing and mortgages](/en/practice-areas/banking-finance)
 - [Real estate due diligences](/en/practice-areas/ma-private-equity-venture-capital)
 - Commercial and residential leases
 - Development and construction agreements
@@ -29,7 +31,7 @@ Our services include:
 - Permits for acquisitions of real estate by foreign investors (Lex Koller)
 - Joint ventures and real estate partnerships
 - Transfer of real estate to trusts
-- Real estate related litigation and arbitration
+- [Real estate related litigation and arbitration](/en/practice-areas/litigation-arbitration)
 
 Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Leila Hawa](/en/team/lh), [Marie-Noëlle Zen-Ruffinen](/en/team/mnz)
 ::
