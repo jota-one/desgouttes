@@ -53,7 +53,7 @@ const props = defineProps<Props>()
 
 const displayName = computed(() => `${props.firstname} ${props.lastname}`)
 const spokenLanguages = computed(() =>
-  props.languages.map(ln => languageRefs[ln]).join(', '),
+  props.languages.map(ln => languageRefs[ln] || ln).join(', '),
 )
 </script>
 

@@ -11,7 +11,8 @@
   "languages": [
     "fr",
     "en",
-    "de"
+    "de",
+    "Italian (spoken)"
   ],
   "activities": [
     "Partner",
@@ -26,20 +27,27 @@
   ],
   "expertiseDomains": [
     {
+      "expertise": "Leila Hawa is a partner and an expert in corporate law, M&A, real estate and financing transactions."
+    },
+    {
       "practiceArea": "ma-private-equity-venture-capital",
-      "expertise": "Leila Hawa regularly advises on international and domestic transactions, including acquisitions, private equity buy-outs, venture capital investments, mergers, and transactional real estate matters for listed and non-listed companies in all service and industry sectors (e.g., IT, new technologies, oil and gas, luxury goods, banking, insurance, real estate). She leads due diligence teams, advises on the structure of the transactions, negotiates and drafts the transactional documents (investment and shareholders' agreements, share/asset purchase agreements, joint ventures, stock option and purchase plans, non-competition and employment agreements, sale and lease back agreements)."
+      "expertise": "Leila is experienced in international and domestic transactions, including mergers and acquisitions (share as well as asset deals), private equity buy-outs, venture capital financing rounds, and transactional real estate matters for listed and non-listed companies across a wide range of industries such as IT, new technologies, gas, luxury goods, banking, insurance, hotel business, and real estate."
     },
     {
       "practiceArea": "banking-finance",
-      "expertise": "Leila Hawa advises on credit facility (including bonds and convertible facilities), asset securitization, and insolvency matters; she assists clients on debt and equity (re)financing and restructuring. Leila Hawa advises insurance companies and banks on regulatory matters, as well as on offering and listing prospectuses for the issuance of stocks and bonds. She also advises clients on the acquisition/sale of banks."
+      "expertise": "Leila regularly advises clients on the structuring, negotiation and implementation of financing arrangements such as corporate lending transactions (including syndicated lending), leveraged acquisition and buy-out finance, convertible debt financing, asset- backed debt financing, real estate financing, and recapitalizations. She regularly advises Swiss and international investors, borrowers and lenders."
     },
     {
       "practiceArea": "corporate",
-      "expertise": "Leila Hawa advises clients on corporate law matters (best practice, corporate governance, setting up of corporate entities and branches, equity structures, e.g., authorized and conditional capital, preferred shares, preferential voting shares)."
+      "expertise": "Leila is an expert on corporate law matters including complex equity financing for privately held companies, shareholders' agreements, shareholders' meetings and corporate governance matters, and setting up of business in Switzerland. She acts for both institutional clients and large families."
     },
     {
       "practiceArea": "commercial-contracts",
-      "expertise": "Leila Hawa advises on the negotiation and drafting of commercial contracts (umbrella and service level agreements, manufacturing, supply, distribution, and licensing, as well as employment and mandate agreements) both in international and domestic matters."
+      "expertise": "Leila advises on the negotiation and drafting of complex commercial contracts (umbrella and service level agreements, manufacturing, supply, distribution, and licensing, as well as employment and mandate agreements) both in international and domestic matters. She further advises clients on the structuring and implementation of stock option and stock purchase plans."
+    },
+    {
+      "practiceArea": "real-estate",
+      "expertise": "She advises both private and institutional clients on real estate law, including purchases, sales, structuring and financing, as well as administrative law matters (licenses, restrictions on acquisitions). Leila also sits on the investment committee of a pension fund."
     }
   ],
   "education": [

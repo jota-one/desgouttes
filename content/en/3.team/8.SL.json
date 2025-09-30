@@ -26,15 +26,19 @@
   "expertiseDomains": [
     {
       "practiceArea": "litigation-arbitration",
-      "expertise": "Stéphanie Lombardi advises and represents\nprivate and corporate clients in domestic and\ninternational litigation and arbitration, in civil and\ncommercial disputes.\n\nShe ensures the enforcement of foreign and\nnational decisions and arbitral awards, in particular\nby means of civil seizure of assets and recognition\nproceedings."
+      "expertise": "Stéphanie Lombardi advises and represents private and corporate clients in domestic and international litigation and arbitration, in civil and commercial disputes.\n\n She ensures the enforcement of foreign and national decisions and arbitral awards, in particular by means of civil seizure of assets and recognition proceedings."
     },
     {
-      "practiceArea": "corporate-contracts",
-      "expertise": "Stéphanie Lombardi advises entrepreneurs,\ncompanies and private clients on the negotiation\nand drafting in a national and international scope\nof all types of commercial contracts, including\nmanufacturing, distribution, licensing, sponsoring,\njoint venture, franchise, non-disclosure, lease,\nservice, sale and purchase agreements.\n\nShe also assists clients with corporate law matters\nthat arise during the business life of their company."
+      "practiceArea": "commercial-contracts",
+      "expertise": "Stéphanie advises entrepreneurs, companies and private clients on the negotiation and drafting in a national and international scope of all types of commercial contracts, including manufacturing, distribution, licensing, sponsoring, joint venture, franchise, non-disclosure, lease, service, sale and purchase agreements."
+    },
+    {
+      "practiceArea": "corporate",
+      "expertise": "Stéphanie assists clients with corporate law matters that arise during the business life of their company, from the incorporation to the sale."
     },
     {
       "practiceArea": "employment-immigration",
-      "expertise": "Stéphanie Lombardi advises and represents Swiss\nand multinational clients in all matters relating to\nemployment law, including negotiation, drafting\nand review of employment contracts, termination\nagreements, bonus scheme, non-compete and\nnon-solicit provisions. She further advises clients\non their internal policies and assists them with the\npreparation and enforcement of individual and\ncollective dismissals.\n\nShe also regularly assists individuals in obtaining\nresidence and work permits and companies with\nthe transfer and secondment of employees."
+      "expertise": "Stéphanie advises and represents Swiss and multinational clients in all matters relating to employment law, including negotiation, drafting and review of employment contracts, termination agreements, bonus scheme, non-compete and non-solicit provisions. She further advises clients on their internal policies and assists them with the preparation and enforcement of individual and collective dismissals.\n\n She also regularly assists individuals in obtaining residence and work permits and companies with the transfer and secondment of employees."
     }
   ],
   "education": [

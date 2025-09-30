@@ -28,21 +28,21 @@
   "expertiseDomains": [
     {
       "practiceArea": "banking-finance",
-      "expertise": "Eric Fiechter advises private clients and corporations investing in or through Switzerland.\nHe advises several foreign banks and financial companies in Switzerland and is a member of their Boards of Directors.\nHe regularly advises clients who are interested in using Singapore as a business hub and generally facilitates European-Asian business exchanges."
+      "expertise": "Eric Fiechter advises private clients and corporations investing in or through Switzerland. He advises several foreign banks and financial companies in Switzerland and is a member of their Boards of Directors. He regularly advises clients who are interested in using Singapore as a business hub and generally facilitates European-Asian business exchanges."
     },
     {
       "practiceArea": "private-clients",
-      "expertise": "Eric Fiechter assists high net worth individuals with estate planning issues."
+      "expertise": "Eric Fiechter assists high net worth individuals with estate planning and trust issues."
     },
     {
       "practiceArea": "litigation-arbitration",
-      "expertise": "Eric Fiechter serves advisor and as party appointed arbitrator in a number of international arbitration proceedings including under ICC rules as well as under the Swiss Rules.\nEric Fiechter also acts as mediator, in particular in the context of international commercial disputes."
+      "expertise": "Eric Fiechter serves advisor and as party appointed arbitrator in a number of international arbitration proceedings including under ICC rules as well as under the Swiss Rules.\n\nEric Fiechter also acts as mediator, in particular in the context of international commercial disputes."
     }
   ],
   "education": [
     {
       "date": "1973",
-      "content": "University of Geneva, Licence en droit"
+      "content": "University of Geneva <i>(lic. iur.)</i>"
     },
     {
       "date": "1974",
@@ -68,7 +68,7 @@
     },
     {
       "date": "2012",
-      "content": "Joined Des Gouttes & Associés"
+      "content": "Of Counsel, Des Gouttes & Associés"
     }
   ],
   "others": [
