@@ -5,8 +5,7 @@
 </template>
 <style scoped lang="postcss">
 .sub-heading {
-    font-size: 1.3rem;
-    font-weight: 600;
+    font-size: 1.5rem;
     margin-bottom: var(--size-base-3);
 }
 </style>

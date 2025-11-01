@@ -24,7 +24,7 @@ Our corporate services cover a full spectrum of corporate matters, including:
 - [Debt (re-)structuring](/en/practice-areas/banking-finance): intercompany financing, refinancing, and structuring complex group organizations
 - Succession planning and exit strategies, including [trade and asset sales, mergers and acquisitions](/en/practice-areas/ma-private-equity-venture-capital)
 - Corporate and regulatory compliance, including internal investigations
-- [Business recovery and corporate reorganizations](/en/practice-areas/employment-immigration): advising on restructuring strategies to ensure long-term sustainability
+- Business recovery and corporate reorganizations: advising on restructuring strategies to ensure long-term sustainability
 - Advice on shareholders' rights, including guidance on agenda submissions, contesting general meetings' resolutions, and special audit matters
 - Associations and foundations: legal structuring and governance support
 - [Corporate litigation and arbitration](/en/practice-areas/litigation-arbitration), including representation in shareholders' disputes and corporate related conflicts

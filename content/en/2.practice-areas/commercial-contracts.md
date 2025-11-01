@@ -16,7 +16,7 @@ Whether launching a new business, structuring partnerships, or navigating comple
 
 For companies operating in regulated industries (such as banking and financial services, life sciences and healthcare, etc.), we go beyond legal advice - we help manage the full spectrum of regulatory, commercial, and compliance matters to keep your business running smoothly. We take a collaborative, solution-driven approach, carefully assessing all options before recommending the best path forward.
 
-Our [litigation and arbitration team](/en/practice-areas/litigation-arbitration) represents clients before courts, arbitral tribunal and regulatory authorities (disputes on sale, enterprise, distribution, agency, license agreements and actions relating to liability, the annulment of executive bodies' decisions, special audit).
+Our [litigation and arbitration](/en/practice-areas/litigation-arbitration) team represents clients before courts, arbitral tribunal and regulatory authorities (disputes on sale, enterprise, distribution, agency, license agreements and actions relating to liability, the annulment of executive bodies' decisions, special audit).
 
 We are experts in all contract types, including:
 - [Joint ventures and partnerships](/en/practice-areas/ma-private-equity-venture-capital)

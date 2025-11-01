@@ -43,17 +43,17 @@ Main Contact: [Leila Hawa](/en/team/lh)
 
 
 ## Private Banking
-Switzerland's reputation for excellence in wealth management requires equally sophisticated legal expertise. We provide support with structuring, drafting and negotiating contractual documentation such as:
+Switzerland's reputation for excellence in wealth management requires equally sophisticated legal expertise. We provide support with structuring, drafting and negotiating [contractual documentation](/en/practice-areas/commercial-contracts) such as:
 - Discretionary asset management or advisory agreements
 - Distribution and custody agreements
 - Brokerage or commission contracts
-- [Contractual documentation](/en/practice-areas/commercial-contracts)
+- Contractual documentation
 
 Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Leila Hawa](/en/team/lh)
 
 
 ## Banking Transactions
-We are regularly retained as trusted legal advisors in the context of acquisitions and mergers, and equity investments involving banks and financial institutions. Our team brings extensive experience in navigating complex transactions, ensuring seamless due diligence, negotiating key terms, and [structuring deals to optimize value for our clients](/en/practice-areas/ma-private-equity-venture-capital).
+We are regularly retained as trusted legal advisors in the context of [acquisitions and mergers](/en/practice-areas/ma-private-equity-venture-capital), and [equity investments](/en/practice-areas/ma-private-equity-venture-capital) involving banks and financial institutions. Our team brings extensive experience in navigating complex transactions, ensuring seamless due diligence, negotiating key terms, and structuring deals to optimize value for our clients.
 
 Related sectors:
 
