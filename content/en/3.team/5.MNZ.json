@@ -23,13 +23,12 @@
   "expertiseDomains": [
     {
       "practiceArea": "corporate",
-      "title": "Corporate Governance",
       "expertise": "Marie-Noëlle is a recognized expert in corporate governance. She regularly advises public, private and family-owned companies in the review or the setting up of their governance. She advises on strategic and legal matters related to board structure and operations, compliance, shareholders' and key stakeholders' relations, executive compensation and remuneration policy. She regularly conducts personalized governance training sessions and assists boards of directors in their evaluation process as an external facilitator. Marie-Noëlle serves on the board of directors of several listed and privately held companies. She co-founded the Swiss Board Institute and is the author | co-author of numerous publications, including the reference book _Le Conseil d'administration_. She is also a member of various panels of experts and a frequent speaker on topics related to corporate governance.",
       "publications": true
     },
     {
       "practiceArea": "private-clients",
-      "expertise": "Marie-Noëlle advises individuals and families on shaping a meaningful legacy and a vision for sustainable generational impact. She has extensive expertise in managing comprehensive successions' planning (both domestic and cross- border) and in handling all asset types (including real estate, financial holdings, art collections and family businesses). She acts as a trusted executor to ensure that the estate is transferred according to the deceased's wishes in a smooth and hassle-free manner for the heirs. She further advises on family governance frameworks to ensure clarity, operational efficiency and alignment of interests across generations.",
+      "expertise": "Over time, this close work with business leaders has naturally extended to advising them and their families on their private affairs and long-term legacy. Marie-Noëlle advises individuals and families on shaping a meaningful family governance framework and a vision for sustainable generational impact. She has extensive expertise in managing comprehensive successions' planning (both domestic and cross- border) and in handling all asset types (including real estate, financial holdings, art collections and family businesses). She acts as a trusted executor to ensure that the estate is transferred according to the deceased's wishes in a smooth and hassle-free manner for the heirs.",
       "publications": true
     },
     {
@@ -114,7 +113,7 @@
       "experience": [
         {
           "date": "2011",
-          "content": "Co-founder (2011), Chair (2014-2021) and Vice-Chair (since 2022), leading foundation in Suisse Romande whose mission is to promote knowledge, research, education and experience sharing in the field of boards of directors and governance"
+          "content": "Co-founder (2011), Chair (2014-2021) and Vice-Chair (since 2022)<br>Foundation committed to advancing board effectiveness and governance excellence, organizing an Annual Board Day (the “Journée du Conseil d’administration”) and offering a Board Education program in partnership with IMD Business School (Lausanne)."
         }
       ]
     },
@@ -122,23 +121,17 @@
       "title": "Independent Board Memberships",
       "experience": [
         {
-          "date": "2008-2016",
-          "content": "Member of the Board of a Family Foundation (holding an important art collection)"
+          "date": "2020-2025",
+          "content": "Member of the Board of Directors of Ina Invest AG (and Chair of the Nomination and Compensation Committee and member of the Investment Committee)"
         },
         {
           "date": "2016",
           "content": "Member of the Board of Directors of the Baloise Group (and member of the Strategy and Governance Committee and Vice-Chair of the Audit committee)"
         },{
           "date": "2018",
-          "content": "Member of the Board of Directors of Banco Santander International (Vice-Chair since 2021, and member of the Audit and Risk Committee and member of the Compensation Committee)"
+          "content": "Member of the Board of Directors of Banco Santander International (Vice-Chair member of the Audit and Risk Committee and member of the Compensation Committee)"
         },
         {
-          "date": "2020-2025",
-          "content": "Member of the Board of Directors of Ina Invest AG (and Chair of the Nomination and Compensation Committee and member of the Investment Committee)"
-        },{
-          "date": "2023",
-          "content": "Member of the Board of Foundation FER Stiftung (Swiss Gaap FER)"
-        },{
           "date": "2025",
           "content": "Member of the Board of Directors of Implenia (and Chair of the Nomination and Compensation Committee)"
         }
@@ -148,16 +141,23 @@
       "title": "Other activities",
       "experience": [
         {
+          "date": "2008-2016",
+          "content": "Member of the Board of a Family Foundation (holding an important art collection)"
+        },
+        {
           "date": "2019-2023",
           "content": "Member of the Jury of the Women's Board Award, Switzerland"
         },
         {
-          "date": "2020",
+          "date": "2020-2025",
           "content": "Member of the Panel of Experts of SWIPRA, Zürich"
         },
         {
           "date": "2015-2025",
           "content": "Member of the Board of Governors of the Swiss Institute of Directors, St. Gallen (representative for Switzerland of the <i>Global Network of Directors Institutes</i> and of the <i>Confédération européenne des associations d'administrateurs</i>)"
+        },{
+          "date": "2023",
+          "content": "Member of the Board of Foundation FER Stiftung (Swiss Gaap FER)"
         }
       ]
     }
