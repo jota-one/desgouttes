@@ -1,32 +1,17 @@
 <template>
-  <article
-    :class="[
-      'article',
-      { 'hide-h1': page?.hideTitle, 'homepage': page?.homepage },
-    ]"
-  >
+  <article :class="[
+    'article',
+    { 'hide-h1': page?.hideTitle, 'homepage': page?.homepage },
+  ]">
     <header class="header">
-      <button
-        v-if="!page?.homepage"
-        class="hamburger"
-        @click="navigationOpened = true"
-      />
+      <button v-if="!page?.homepage" class="hamburger" @click="navigationOpened = true" />
       <NuxtLink href="/" class="logo">
         <img src="/imgs/logo.png" alt="" />
       </NuxtLink>
-      <Navigation
-        class="navigation"
-        :homepage="Boolean(page?.homepage)"
-        :opened="navigationOpened"
-        @close="navigationOpened = false"
-      />
-      <img
-        v-if="page?.navBanner"
-        :src="`/imgs/generic/${navBannerImage}`"
-        width="160"
-        height="160"
-        class="nav-banner"
-      />
+      <Navigation class="navigation" :homepage="Boolean(page?.homepage)" :opened="navigationOpened"
+        @close="navigationOpened = false" />
+      <img v-if="page?.navBanner" :src="`/imgs/generic/${navBannerImage}`" width="160" height="160"
+        class="nav-banner" />
     </header>
     <div v-if="page?.homepage" class="homepage-welcome">
       <slot />
@@ -38,11 +23,7 @@
       <main class="main">
         <div :class="['body', { transparent: !page?.bodyBg }]">
           <slot v-if="!page?.homepage" />
-          <NuxtLink
-            v-if="page?.backOnClose"
-            :href="page?.backOnClose"
-            class="close"
-          />
+          <NuxtLink v-if="page?.backOnClose" :href="page?.backOnClose" class="close" />
         </div>
         <div v-if="!page?.noFooter && !page?.homepage" class="footer">
           <button v-if="page?.backToTop" class="back-to-top" @click="scrollTop">
@@ -64,7 +45,7 @@ const navigationOpened = ref(false)
 const navBannerImage = computed(() =>
   page.value.navBanner?.replace(
     'RANDOM',
-    (Math.random() * 15 + 1).toString().split('.')[0],
+    (Math.random() * 17 + 1).toString().split('.')[0],
   ),
 )
 
