@@ -7,7 +7,7 @@
   "firstname": "Anaïs",
   "email": "anais.abdel_sattar@desgouttes.ch",
   "phone": "+41 22 704 30 50",
-  "cvVersion": "v2025",
+  "cvVersion": "v2025b",
   "languages": [
     "fr",
     "en",
@@ -21,22 +21,28 @@
   "memberships": [
     "Geneva Bar Association (OdA)",
     "Swiss Bar Association (SAV)",
-    "International Association of Young Lawyers (AIJA)",
-    "European Lawyers Network (Euravocat)",
-    "Law Society of England and Wales"
+    "Law Society of England and Wales",
+    "European Lawyers Network (Euravocat)"
   ],
   "expertiseDomains": [
     {
+      "expertise": "Anais Abdel Sattar is a senior associate very well versed in contractual law matters. She has a broad experienced in litigation and arbitration in commercial matters."
+    },
+    {
       "practiceArea": "litigation-arbitration",
-      "expertise": "Anaïs Abdel Sattar advises private and corporate clients on domestic and international litigation and arbitration, including pre-trial strategy, in civil and commercial matters, including banking litigation.\n\nShe also assists clients with the enforcement of foreign and national decisions and arbitral awards through asset tracing and recovery, civil seizures of assets and recognition proceedings."
+      "expertise": "Anaïs advises private and corporate clients on domestic and international litigation and arbitration, including pre-trial strategy, in civil and commercial matters, including banking litigation. Her sectors of expertise encompass employment, corporate and contract matters. She has successfully prosecuted numerous cases of cross-border service agreements in various sectors.\n\nShe also assists clients with the enforcement of foreign and national decisions and arbitral awards through asset tracing and recovery, civil seizures of assets and recognition proceedings."
     },
     {
       "practiceArea": "commercial-contracts",
-      "expertise": "Anaïs Abdel Sattar regularly advises entrepreneurs, companies and private clients on the negotiation and drafting of commercial contracts, including manufacturing, distribution, licensing, joint venture, franchise, non-disclosure (NDA), lease, service, sale and purchase agreements, both in international and domestic situations. She also assists clients with business ownership transfer processes.\n\nShe further advises clients in all corporate law matters as well as in day-to-day business matters, including in labor law and tenancy law."
+      "expertise": "Anaïs regularly advises entrepreneurs, companies and private clients on the negotiation and drafting of commercial contracts, including manufacturing, distribution, licensing, joint venture, franchise, lease, service, sale and purchase agreements, both in international and domestic matters. She has particular experience in the automobile and service industries.\n\nAnaïs also assists clients with business ownership transfer processes."
+    },
+    {
+      "practiceArea": "corporate",
+      "expertise": "Anaïs regularly advises clients in all corporate law matters as well as in day-to-day business matters, including in employment law and tenancy law."
     },
     {
       "practiceArea": "insolvency-restructuring",
-      "expertise": "Anaïs Abdel Sattar frequently assists creditors with the recovery of their claims in the matter of debt collection and bankruptcy proceedings and related litigations."
+      "expertise": "Anaïs frequently assists creditors with the recovery of their claims in the matter of debt collection and bankruptcy proceedings as well as related litigations."
     }
   ],
   "education": [
@@ -72,7 +78,7 @@
     },
     {
       "date": "2016",
-      "content": "Associate, Des Gouttes & Associés"
+      "content": "Senior Associate, Des Gouttes & Associés"
     }
   ],
   "others": []

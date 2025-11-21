@@ -5,7 +5,7 @@
   "role": "counsel",
   "lastname": "Cohen",
   "firstname": "Ivan",
-  "cvVersion": "v4",
+  "cvVersion": "v2025b",
   "email": "ivan.cohen@desgouttes.ch",
   "phone": "+41 22 704 30 50",
   "languages": [
@@ -26,13 +26,13 @@
   "expertiseDomains": [
     {
       "practiceArea": "private-clients",
-      "expertise": "Ivan Cohen counsels and assists international and Swiss private clients and high net worth individuals with the organization of their assets including corporate restructuring, tax efficiency, anti-money laundering compliance, cash-flow management, private wealth management and estate planning.\n\nIvan Cohen has accompanied numerous clients domiciled in the Americas and in Europe through voluntary disclosure proceedings. He regularly assists clients with repatriation, expatriation and domiciliation agreements.\n\nHe regularly acts as executor, trustee and administrator in multijurisdictional succession matters, estate liquidations and insolvencies."
+      "expertise": "Ivan Cohen counsels and assists international and Swiss private clients and high net worth individuals with the organization of their assets including corporate restructuring, tax efficiency, anti-money laundering compliance, cash-flow management, private wealth management and estate planning.\n\n Ivan has accompanied numerous clients domiciled in the Americas and in Europe through voluntary disclosure proceedings. He regularly assists clients with repatriation, expatriation and domiciliation agreements.\n\n He regularly acts as executor, trustee and administrator in multijurisdictional succession matters, estate liquidations and insolvencies."
     }
   ],
   "education": [
     {
       "date": "1976",
-      "content": "University of Geneva, Licence en droit"
+      "content": "University of Geneva <i>(lic. iur.)</i>"
     },
     {
       "date": "1978",
@@ -58,7 +58,7 @@
     },
     {
       "date": "2001",
-      "content": "Joined Des Gouttes & Associés"
+      "content": "Of Counsel, Des Gouttes & Associés"
     }
   ],
   "others": []

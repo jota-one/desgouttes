@@ -8,7 +8,9 @@ title: Banking and Finance
 
 ::anchored{on="h2" title="Banking and Finance"}
 
+:::sub-heading
 With decades of experience servicing first class Swiss and non-Swiss banking banks and other financial institutions, as counsels and as board members of banks and members of the Swiss Bankers' Associations' code of conduct supervisory commission, we are recognized for our expertise and the quality of our services in the banking and finance industry. From insightful guidance on key regulatory and transactional matters to strong assistance on contentious matters, we are experts in all matters of banking and finance.
+:::
 
 
 ## Regulatory
@@ -26,9 +28,9 @@ Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Carla Reyes](/en/team/cr)
 
 
 ## Commercial Banking and Finance
-We advise clients on the structuring, negotiation and implementation of financing arrangements. We handle a wide variety of transactions from corporate lending and structured finance transactions, including syndicated lending, leveraged acquisition and buy-out finance, structured finance, projects and infrastructure finance, real estate finance, asset-based finance, recapitalizations, and commercial and industrial finance. We provide strategic guidance on selecting, structuring, and executing tailored financing solutions - whether debt, equity, or a combination of both - to align with your business goals and maximize financial efficiency. Our expertise includes:
+We advise clients on the structuring, negotiation and implementation of financing arrangements. We handle a wide variety of transactions on corporate lending transactions, including syndicated lending, leveraged acquisition and buy-out finance, projects and infrastructure finance, real estate finance, asset-based finance, recapitalizations, and commercial and industrial finance. We provide strategic guidance on selecting, structuring, and executing tailored financing solutions - whether debt, equity, or a combination of both - to align with your business goals and maximize financial efficiency. Our expertise includes:
 - Secured and unsecured commercial lending transactions, including bilateral and syndicated lending transactions
-- Leveraged and investment grade acquisition finance in LBOs (leveraged credit facilities, high-yield bonds, and/or mezzanine financing)
+- Leveraged and investment grade acquisition finance in LBOs
 - Financial restructurings
 - Project and infrastructure finance
 - Trade finance
@@ -37,21 +39,21 @@ Related sectors:
 
 Construction and Infrastructure | Financial Services | Insurance | Private Equity | Venture Capital and Start-ups
 
-Main Contacts: [Leila Hawa](/en/team/lh)
+Main Contact: [Leila Hawa](/en/team/lh)
 
 
 ## Private Banking
-Switzerland's reputation for excellence in wealth management requires equally sophisticated legal expertise. We provide support with structuring, drafting and negotiating contractual documentation such as:
+Switzerland's reputation for excellence in wealth management requires equally sophisticated legal expertise. We provide support with structuring, drafting and negotiating [contractual documentation](/en/practice-areas/commercial-contracts) such as:
 - Discretionary asset management or advisory agreements
 - Distribution and custody agreements
 - Brokerage or commission contracts
-- [Contractual documentation](/en/practice-areas/commercial-contracts)
+- Contractual documentation
 
 Main Contacts: [Arun Chandrasekharan](/en/team/ac), [Leila Hawa](/en/team/lh)
 
 
 ## Banking Transactions
-We are regularly retained as trusted legal advisors in the context of acquisitions and mergers, and equity investments involving banks and financial institutions. Our team brings extensive experience in navigating complex transactions, ensuring seamless due diligence, negotiating key terms, and [structuring deals to optimize value for our clients](/en/practice-areas/ma-private-equity-venture-capital).
+We are regularly retained as trusted legal advisors in the context of [acquisitions and mergers](/en/practice-areas/ma-private-equity-venture-capital), and [equity investments](/en/practice-areas/ma-private-equity-venture-capital) involving banks and financial institutions. Our team brings extensive experience in navigating complex transactions, ensuring seamless due diligence, negotiating key terms, and structuring deals to optimize value for our clients.
 
 Related sectors:
 

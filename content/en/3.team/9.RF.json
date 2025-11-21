@@ -7,7 +7,7 @@
   "firstname": "Robert",
   "email": "robert.fiechter@desgouttes.ch",
   "phone": "+41 22 704 30 50",
-  "cvVersion": "v2021",
+  "cvVersion": "v2025b",
   "languages": [
     "en",
     "de_ch",
@@ -33,7 +33,7 @@
     },
     {
       "practiceArea": "banking-finance",
-      "expertise": "As former deputy secretary of the Supervisory Board CDB (Swiss Bank Codes of Conduct), Robert Fiechter has extensive experience in banking regulatory issues, international administrative and criminal legal assistance. Robert Fiechter regularly handles procedures involving international administrative assistance concerning requests emanating from the SEC and the French COB as well as from the US Department of Justice and other foreign criminal prosecution authorities.",
+      "expertise": "As a former deputy secretary of the Supervisory Board CDB (Swiss Bank Codes of Conduct), Robert has extensive experience in banking regulatory issues, international administrative and criminal legal assistance. Robert regularly handles procedures involving international administrative assistance concerning requests emanating from the SEC and the French COB as well as from the US Department of Justice and other foreign criminal prosecution authorities.",
       "hideFromPracticeAreas": true
     },
     {
@@ -44,7 +44,7 @@
   "education": [
     {
       "date": "1976-1978",
-      "content": "University of Geneva, licence en droit"
+      "content": "University of Geneva <i>(lic. iur.)</i>"
     },
     {
       "date": "1978",
@@ -62,7 +62,7 @@
     },
     {
       "date": "1982",
-      "content": "Joined Des Gouttes & Associés"
+      "content": "Of Counsel (Partner until 2021), Des Gouttes & Associés"
     }
   ],
   "others": [
@@ -75,11 +75,11 @@
       "content": "President of the Arbitral Tribunal SRO Post"
     },
     {
-      "date": "2007-2017",
+      "date": "2007",
       "content": "Deputy Judge at the Court of Justice (Appellate Court), Geneva"
     },
     {
-      "date": "2008-2021",
+      "date": "2008",
       "content": "Deputy Secretary of the Supervisory Board CDB (Agreement on the Swiss Banks' Codes of Conduct with regard to the exercise of due diligence), Berne"
     }
   ]

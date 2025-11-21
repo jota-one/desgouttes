@@ -5,7 +5,7 @@
   "role": "attorney",
   "lastname": "Thabuis",
   "firstname": "Vince",
-  "cvVersion": "v2024",
+  "cvVersion": "v2025b",
   "email": "vince.thabuis@desgouttes.ch",
   "phone": "+41 22 704 30 50",
   "languages": [
@@ -25,15 +25,19 @@
   "expertiseDomains": [
     {
       "practiceArea": "fraud-financial-crime-assets-recovery",
-      "expertise": "Vince Thabuis is primarily active in fraud matters, business crime and international mutual legal assistance (criminal and tax related) proceedings.<br>He also assists financially harmed clients in the matter of asset tracing and recovery, as well as civil seizure of assets and enforcement of foreign and national decisions so as to obtain compensation and/or restitution of their assets."
+      "expertise": "Vince Thabuis is primarily active in fraud matters, business crime and international mutual legal assistance (criminal and tax related) proceedings.\n\n He also assists financially harmed clients in the matter of asset tracing and recovery, as well as civil seizure of assets and enforcement of foreign and national decisions so as to obtain compensation and/or restitution of their assets."
     },
     {
       "practiceArea": "litigation-arbitration",
-      "expertise": "Vince Thabuis regularly represents clients before the Swiss federal and state courts in civil, commercial, banking and criminal litigation proceedings.<br>His experience in civil proceedings encompasses, among others, corporate and contract law.<br>With regard to criminal proceedings, he is mainly active in white-collar crime matters."
+      "expertise": "Vince regularly represents clients before the Swiss federal and state courts in civil, commercial, banking and criminal litigation proceedings.\n\n His experience in civil proceedings encompasses, among others, corporate and contract law.\n\n With regard to criminal proceedings, he is mainly active in white-collar crime matters."
     },
     {
       "practiceArea": "insolvency-restructuring",
-      "expertise": "Vince Thabuis frequently assists debtors and creditors in the matter of debt collection and bankruptcy proceedings and related litigation."
+      "expertise": "Vince frequently assists debtors and creditors in the matter of debt collection and bankruptcy proceedings and related litigation."
+    },
+    {
+      "title": "International Sanctions",
+      "expertise": "Vince is also active before the Swiss federal authorities in cases involving embargoes, sanctions matters and political freezing of assets."
     }
   ],
   "education": [
@@ -69,7 +73,11 @@
     },
     {
       "date": "2020",
-      "content": "Associate, Des Gouttes & Associés"
+      "content": "Jurist, Department of Perception of the Cantonal Tax Authority, Geneva"
+    },
+    {
+      "date": "2020",
+      "content": "Senior Associate, Des Gouttes & Associés"
     }
   ],
   "others": []

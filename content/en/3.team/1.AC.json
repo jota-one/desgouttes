@@ -5,7 +5,7 @@
   "role": "associate",
   "lastname": "Chandrasekharan",
   "firstname": "Arun",
-  "cvVersion": "v2025",
+  "cvVersion": "v2025b",
   "email": "arun.chandrasekharan@desgouttes.ch",
   "phone": "+41 22 704 30 50",
   "languages": [
@@ -16,9 +16,9 @@
   ],
   "activities": [
     "Partner",
+    "Attorney at Law",
     "Deputy Secretary of the Supervisory Board CDB",
-    "Former Member of the Board of the Geneva Bar Association",
-    "Attorney at Law"
+    "Former Member of the Board of the Geneva Bar Association"
   ],
   "memberships": [
     "Geneva Bar Association (OdA)",
@@ -27,20 +27,23 @@
   ],
   "expertiseDomains": [
     {
+      "expertise": "Arun Chandrasekharan is a partner and a recognized expert in all aspects of commercial contracts, litigation and arbitration, and employment law matters."
+    },
+    {
       "practiceArea": "commercial-contracts",
-      "expertise": "Arun Chandrasekharan primarily advises, negotiates, drafts and resolves disputes related to service contracts, such as mandate agreements, distribution agreements, joint venture agreements, licensing agreements, outsourcing agreements, manufacturing agreements, supply agreements, management agreements, employment agreements or general consulting contracts both in international and domestic relations."
+      "expertise": "Arun advises, negotiates, drafts and resolves disputes related to service contracts, such as distribution, joint venture, licensing, outsourcing agreements, manufacturing, supply, management, and employment agreements or general consulting contracts both in international and domestic relations."
     },
     {
       "practiceArea": "corporate",
-      "expertise": "Arun Chandrasekharan assists clients on transactions concerning the sale of companies or assets (including real estate transactions), investment in companies, transfer of technologies. He advises, negotiates, drafts and resolves disputes pertaining to banking matters (loan agreements, asset management, trade finance, etc.), shareholders' agreements, share or asset purchase agreements, investment agreements, convertible loan agreements and related agreements.\n\nWith his own personal experience on Boards of Directors, Arun Chandrasekharan regularly handles issues of corporate law including corporate housekeeping and corporate restructuring."
+      "expertise": "Arun assists clients on transactions concerning the sale of companies or assets (including real estate transactions), investment in companies, and transfer of technologies. He advises, negotiates, drafts and resolves disputes pertaining to banking matters (loan agreements, asset management, trade finance, etc.), shareholders' agreements, share or asset purchase agreements, investment agreements, convertible loan agreements and related agreements.\n\nWith his own personal experience on Boards of Directors, Arun regularly handles issues of corporate law including corporate housekeeping and corporate restructuring."
     },
     {
       "practiceArea": "litigation-arbitration",
-      "expertise": "Arun Chandrasekharan is an expert in dispute resolutions both before courts in Geneva and other cantons as well as in arbitration and mediation. He regularly acts as sole arbitrator, party appointed arbitrator and mediator both in ad hoc proceedings as well as in institutional arbitrations (International Chamber of Commerce, Swiss Arbitration Center, Arbitral Tribunal of the Swiss Association of Asset Managers)."
+      "expertise": "Arun is an expert in dispute resolutions both before courts in Geneva and other cantons as well as in arbitration and mediation. He regularly acts as sole arbitrator, party appointed arbitrator and mediator both in ad hoc proceedings as well as in institutional arbitrations (International Chamber of Commerce, Swiss Arbitration Center, Arbitral Tribunal of the Swiss Association of Asset"
     },
     {
       "practiceArea": "employment-immigration",
-      "expertise": "Arun Chandrasekharan has a robust experience in the negotiation and drafting of employment agreements, bonus and incentive schemes, termination (individual or mass) agreements, and social plans. He furthermore represents both companies and employees in managerial positions in front of labor courts, in all industry sectors with a focus on the banking industry. "
+      "expertise": "Arun is an expert in employment and immigration law. His practice focuses on the negotiation and drafting of employment agreements, bonus and incentive schemes, termination (individual or mass) agreements, and social plans. He furthermore represents both companies and employees in managerial positions in front of labor courts, in all industry sectors with a focus on the banking industry."
     }
   ],
   "education": [
@@ -62,12 +65,8 @@
       "title": "Law Firms",
       "experience": [
         {
-          "date": "1998-2000",
-          "content": "Trainee Lawyer, Des Gouttes & Associés"
-        },
-        {
-          "date": "2001-2002",
-          "content": "Associate, Des Gouttes & Associés"
+          "date": "1998",
+          "content": "Joined Des Gouttes & Associés"
         },
         {
           "date": "2002",
