@@ -7,7 +7,7 @@
   "firstname": "Marie-Noëlle",
   "email": "marie-noelle.zen-ruffinen@desgouttes.ch",
   "phone": "+41 22 704 30 50",
-  "cvVersion": "v2025b",
+  "cvVersion": "v2026",
   "languages": [
     "fr",
     "en",
@@ -125,15 +125,20 @@
           "content": "Member of the Board of Directors of Ina Invest AG (and Chair of the Nomination and Compensation Committee and member of the Investment Committee)"
         },
         {
-          "date": "2016",
+          "date": "2016-2025",
           "content": "Member of the Board of Directors of the Baloise Group (and member of the Strategy and Governance Committee and Vice-Chair of the Audit committee)"
-        },{
+        },
+        {
           "date": "2018",
           "content": "Member of the Board of Directors of Banco Santander International (Vice-Chair, member of the Audit and Risk Committee and member of the Compensation Committee)"
         },
         {
           "date": "2025",
           "content": "Member of the Board of Directors of Implenia (and Chair of the Nomination and Compensation Committee)"
+        },
+        {
+          "date": "2025",
+          "content": "Member of the Board of Directors of Helvetia Baloise (and member of the Nomination and Compensation Committee)"
         }
       ]
     },
